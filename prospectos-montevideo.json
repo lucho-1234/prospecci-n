@@ -1,5 +1,6 @@
 {
   "generado": "2026-07-06",
+  "actualizado": "2026-07-07",
   "ciudad": "Montevideo, Uruguay",
   "servicio": "Gestión de Meta Ads y creación de funnels simples",
   "criterios_score": {
@@ -17,14 +18,14 @@
       "nombre": "My Spa",
       "rubro": "Clínicas",
       "subrubro": "Bienestar / spa",
-      "zona": "Montevideo",
+      "zona": "Punta Carretas",
       "web": "",
       "estado": "sin_web",
-      "telefono": "",
+      "telefono": "098 227 362",
       "email": "",
       "instagram": "facebook.com/MySpaUruguay",
-      "direccion": "",
-      "notas": "Opera solo con Facebook. Sin web, sin funnel, sin captación de datos propios.",
+      "direccion": "21 de Setiembre 2276 of. 607",
+      "notas": "Centro de estética integral con 94% de recomendación en Facebook. Opera solo con esa página: sin web, sin funnel, sin captación de datos propios.",
       "pixel": false,
       "ga": false,
       "whatsapp": false,
@@ -42,20 +43,21 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre My Spa? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Contactado",
       "rank": 1
     },
     {
       "nombre": "Don Aurelio Pizzas",
       "rubro": "Restaurantes",
       "subrubro": "Pizzería",
-      "zona": "Montevideo",
+      "zona": "Pocitos",
       "web": "",
       "estado": "sin_web",
-      "telefono": "",
+      "telefono": "2622 0066",
       "email": "",
       "instagram": "@donaureliopizzas",
       "direccion": "",
-      "notas": "Pizza a la parrilla con comunidad en Instagram. Todo el negocio depende del alcance orgánico.",
+      "notas": "Pizza a la parrilla con comunidad en Instagram y presencia en PedidosYa (paga ~30% de comisión por pedido). Todo el negocio depende del alcance orgánico y de apps de terceros.",
       "pixel": false,
       "ga": false,
       "whatsapp": false,
@@ -73,6 +75,7 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Don Aurelio Pizzas? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Contactado",
       "rank": 2
     },
     {
@@ -104,38 +107,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Francachela? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Contactado",
       "rank": 3
-    },
-    {
-      "nombre": "García Parrilla",
-      "rubro": "Restaurantes",
-      "subrubro": "Parrillada",
-      "zona": "Punta Carretas",
-      "web": "parrilladagarcia.com",
-      "estado": "inaccesible",
-      "telefono": "",
-      "email": "",
-      "instagram": "",
-      "direccion": "",
-      "notas": "Steakhouse clásico (4.3★, 469 reseñas). Su web no respondió durante el análisis — verificar.",
-      "pixel": false,
-      "ga": false,
-      "whatsapp": false,
-      "funnel": false,
-      "responsive": true,
-      "https": true,
-      "ig_activo": true,
-      "score": 75,
-      "prioridad": "Caliente",
-      "hallazgos": [
-        "Su web no respondió durante el análisis (caídas intermitentes)",
-        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
-        "Sin canal de WhatsApp integrado a su presencia digital",
-        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
-      ],
-      "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre García Parrilla? Sin compromiso.",
-      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 4
     },
     {
       "nombre": "La 9 Pizza & Parrilla",
@@ -166,20 +139,21 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre La 9 Pizza & Parrilla? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 5
+      "estado_contacto": "Contactado",
+      "rank": 4
     },
     {
       "nombre": "Pistatxo Fusión",
       "rubro": "Restaurantes",
-      "subrubro": "Cocina fusión",
+      "subrubro": "Cocina vasca fusión",
       "zona": "Pocitos",
       "web": "pistatxo.com",
       "estado": "inaccesible",
       "telefono": "",
       "email": "",
       "instagram": "",
-      "direccion": "",
-      "notas": "Señalado como 'joya' de Pocitos en TripAdvisor. Web no accesible durante el análisis.",
+      "direccion": "Juan Pablo Laguna 3351",
+      "notas": "4.8★ y puesto #7 de 969 restaurantes de Montevideo en TripAdvisor. Fundado por Danilo González. Web no accesible durante el análisis.",
       "pixel": false,
       "ga": false,
       "whatsapp": false,
@@ -197,38 +171,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Pistatxo Fusión? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 6
-    },
-    {
-      "nombre": "Tandory",
-      "rubro": "Restaurantes",
-      "subrubro": "Restaurante fusión",
-      "zona": "Pocitos",
-      "web": "tandory.com.uy",
-      "estado": "caida",
-      "telefono": "",
-      "email": "",
-      "instagram": "@tandory",
-      "direccion": "",
-      "notas": "Referente gastronómico (chef Gabriel Coquel, 4.6★ en TripAdvisor con 2.668 reseñas) pero su web devuelve error 404. Marca fuerte sin funnel propio.",
-      "pixel": false,
-      "ga": false,
-      "whatsapp": false,
-      "funnel": false,
-      "responsive": true,
-      "https": true,
-      "ig_activo": true,
-      "score": 75,
-      "prioridad": "Caliente",
-      "hallazgos": [
-        "Su web está caída (error al cargar)",
-        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
-        "Sin canal de WhatsApp integrado a su presencia digital",
-        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
-      ],
-      "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tandory? Sin compromiso.",
-      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 7
+      "estado_contacto": "Contactado",
+      "rank": 5
     },
     {
       "nombre": "Bazar El Tío",
@@ -258,37 +202,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bazar El Tío? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 8
-    },
-    {
-      "nombre": "DECOHogar Bazar",
-      "rubro": "Bazares",
-      "subrubro": "Bazar / deco",
-      "zona": "Ciudad Vieja",
-      "web": "",
-      "estado": "sin_web",
-      "telefono": "2917 1334",
-      "email": "",
-      "instagram": "",
-      "direccion": "Sarandí 526",
-      "notas": "Local a la calle en plena peatonal Sarandí. Sin web ni redes detectadas: invisible fuera del tráfico peatonal.",
-      "pixel": false,
-      "ga": false,
-      "whatsapp": false,
-      "funnel": false,
-      "responsive": true,
-      "https": true,
-      "ig_activo": false,
-      "score": 70,
-      "prioridad": "Caliente",
-      "hallazgos": [
-        "No tiene web propia — todo el negocio depende de redes o del local físico",
-        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
-        "Sin canal de WhatsApp integrado a su presencia digital"
-      ],
-      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre DECOHogar Bazar? Sin compromiso.",
-      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 9
+      "estado_contacto": "Contactado",
+      "rank": 6
     },
     {
       "nombre": "Gift Shop",
@@ -318,7 +233,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Gift Shop? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 10
+      "estado_contacto": "Contactado",
+      "rank": 7
     },
     {
       "nombre": "Hay de Todo",
@@ -348,7 +264,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Hay de Todo? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 11
+      "estado_contacto": "Contactado",
+      "rank": 8
     },
     {
       "nombre": "Amatista Centro de Bienestar",
@@ -378,7 +295,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Amatista Centro de Bienestar? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 12
+      "estado_contacto": "Contactado",
+      "rank": 9
     },
     {
       "nombre": "RealEssence Podología",
@@ -408,7 +326,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre RealEssence Podología? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 13
+      "estado_contacto": "Pendiente",
+      "rank": 10
     },
     {
       "nombre": "Serenity Holistic Spa",
@@ -438,7 +357,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Serenity Holistic Spa? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 14
+      "estado_contacto": "Contactado",
+      "rank": 11
     },
     {
       "nombre": "Syncros Fisioterapia",
@@ -468,7 +388,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Syncros Fisioterapia? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 15
+      "estado_contacto": "Pendiente",
+      "rank": 12
     },
     {
       "nombre": "TCP – Terapia Científica Podológica",
@@ -498,7 +419,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre TCP – Terapia Científica Podológica? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 16
+      "estado_contacto": "Pendiente",
+      "rank": 13
     },
     {
       "nombre": "El Bebote de TikTok",
@@ -528,7 +450,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Bebote de TikTok? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 17
+      "estado_contacto": "Pendiente",
+      "rank": 14
     },
     {
       "nombre": "Estrecho",
@@ -558,7 +481,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Estrecho? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 18
+      "estado_contacto": "Pendiente",
+      "rank": 15
     },
     {
       "nombre": "Pomelo",
@@ -588,7 +512,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Pomelo? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 19
+      "estado_contacto": "Pendiente",
+      "rank": 16
     },
     {
       "nombre": "Primuseum",
@@ -618,7 +543,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Primuseum? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 20
+      "estado_contacto": "Pendiente",
+      "rank": 17
     },
     {
       "nombre": "Podología Total",
@@ -651,7 +577,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Podología Total? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 21
+      "estado_contacto": "Pendiente",
+      "rank": 18
     },
     {
       "nombre": "Centro Kinesiológico",
@@ -683,7 +610,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Centro Kinesiológico? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 22
+      "estado_contacto": "Pendiente",
+      "rank": 19
     },
     {
       "nombre": "Clínica Odontológica Las Torres",
@@ -715,7 +643,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Clínica Odontológica Las Torres? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 23
+      "estado_contacto": "Pendiente",
+      "rank": 20
     },
     {
       "nombre": "Vital Pie",
@@ -747,7 +676,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Vital Pie? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 24
+      "estado_contacto": "Pendiente",
+      "rank": 21
     },
     {
       "nombre": "Recoleta Pizza & Parrilla",
@@ -779,7 +709,39 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Recoleta Pizza & Parrilla? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 25
+      "estado_contacto": "Pendiente",
+      "rank": 22
+    },
+    {
+      "nombre": "Tandory",
+      "rubro": "Restaurantes",
+      "subrubro": "Restaurante fusión",
+      "zona": "Pocitos",
+      "web": "tandory.com.uy",
+      "estado": "caida",
+      "telefono": "",
+      "email": "",
+      "instagram": "@tandory",
+      "direccion": "",
+      "notas": "Referente gastronómico (chef Gabriel Coquel, 4.6★ en TripAdvisor con 2.668 reseñas) con la web caída (404). CONTACTADO POR EMAIL — respondieron: usan Meitre para reservas; el ángulo ahora es alimentar esa agenda con campañas.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 60,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Su web está caída (error al cargar)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tandory? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Respondió",
+      "rank": 23
     },
     {
       "nombre": "Clínica Fisiomed",
@@ -810,7 +772,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Clínica Fisiomed? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 26
+      "estado_contacto": "Pendiente",
+      "rank": 24
     },
     {
       "nombre": "Dental.uy",
@@ -841,7 +804,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Dental.uy? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 27
+      "estado_contacto": "Pendiente",
+      "rank": 25
     },
     {
       "nombre": "Natural Beauty",
@@ -872,7 +836,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Natural Beauty? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 28
+      "estado_contacto": "Pendiente",
+      "rank": 26
     },
     {
       "nombre": "Podología Clínica",
@@ -902,7 +867,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Podología Clínica? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 29
+      "estado_contacto": "Pendiente",
+      "rank": 27
     },
     {
       "nombre": "Parrillada Montevideo",
@@ -932,7 +898,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Parrillada Montevideo? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 30
+      "estado_contacto": "Pendiente",
+      "rank": 28
     },
     {
       "nombre": "Cinesia",
@@ -962,7 +929,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Cinesia? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 31
+      "estado_contacto": "Pendiente",
+      "rank": 29
     },
     {
       "nombre": "Consultorio Brandariz",
@@ -992,7 +960,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Consultorio Brandariz? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 32
+      "estado_contacto": "Pendiente",
+      "rank": 30
     },
     {
       "nombre": "El Rastro Parrillita",
@@ -1022,7 +991,40 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Rastro Parrillita? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 33
+      "estado_contacto": "Pendiente",
+      "rank": 31
+    },
+    {
+      "nombre": "García Parrilla Clásica y Bar",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada",
+      "zona": "Punta Carretas",
+      "web": "garcia.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "",
+      "instagram": "@garciauruguay",
+      "direccion": "Guipúzcoa 331",
+      "notas": "CORREGIDO: web activa en garcia.com.uy con reservas online. Fundada en 1967, dueño Eduardo Parodi (nota en Forbes Uruguay). Sin píxel ni WhatsApp en la web: pitch de medición, no de infraestructura.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre García Parrilla Clásica y Bar? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "rank": 32
     },
     {
       "nombre": "La Perdiz",
@@ -1053,7 +1055,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre La Perdiz? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 34
+      "estado_contacto": "Pendiente",
+      "rank": 33
     },
     {
       "nombre": "ABC Home Bazar",
@@ -1082,7 +1085,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre ABC Home Bazar? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 35
+      "estado_contacto": "Pendiente",
+      "rank": 34
     },
     {
       "nombre": "Bazar News",
@@ -1112,7 +1116,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bazar News? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 36
+      "estado_contacto": "Pendiente",
+      "rank": 35
     },
     {
       "nombre": "Casa Frottis",
@@ -1142,7 +1147,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Casa Frottis? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 37
+      "estado_contacto": "Pendiente",
+      "rank": 36
     },
     {
       "nombre": "Casa Jorge Mayorista",
@@ -1172,7 +1178,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Casa Jorge Mayorista? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 38
+      "estado_contacto": "Pendiente",
+      "rank": 37
     },
     {
       "nombre": "Tiendas Montevideo",
@@ -1202,7 +1209,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tiendas Montevideo? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 39
+      "estado_contacto": "Pendiente",
+      "rank": 38
     },
     {
       "nombre": "MVD Clínica Odontológica",
@@ -1231,7 +1239,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre MVD Clínica Odontológica? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 40
+      "estado_contacto": "Pendiente",
+      "rank": 39
     },
     {
       "nombre": "Punto Odontológico",
@@ -1260,7 +1269,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Punto Odontológico? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 41
+      "estado_contacto": "Pendiente",
+      "rank": 40
     },
     {
       "nombre": "Diego Centro Mayorista",
@@ -1290,7 +1300,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Diego Centro Mayorista? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 42
+      "estado_contacto": "Pendiente",
+      "rank": 41
     },
     {
       "nombre": "be-eme",
@@ -1320,7 +1331,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre be-eme? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 43
+      "estado_contacto": "Pendiente",
+      "rank": 42
     },
     {
       "nombre": "Bazar Grupo Dos",
@@ -1349,7 +1361,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bazar Grupo Dos? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 44
+      "estado_contacto": "Pendiente",
+      "rank": 43
     },
     {
       "nombre": "Bienestar Dental",
@@ -1378,7 +1391,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bienestar Dental? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 45
+      "estado_contacto": "Pendiente",
+      "rank": 44
     },
     {
       "nombre": "ViaAqua Spa",
@@ -1407,7 +1421,8 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre ViaAqua Spa? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "rank": 46
+      "estado_contacto": "Pendiente",
+      "rank": 45
     },
     {
       "nombre": "Casajardín",
@@ -1436,6 +1451,37 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Casajardín? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "rank": 46
+    },
+    {
+      "nombre": "DECOHogar Bazar",
+      "rubro": "Bazares",
+      "subrubro": "Bazar / deco (cadena)",
+      "zona": "Varias zonas",
+      "web": "decohogar.com.uy",
+      "estado": "ok",
+      "telefono": "2917 1334",
+      "email": "",
+      "instagram": "@decohogarbazar",
+      "direccion": "Sarandí 526 y más tiendas",
+      "notas": "CORREGIDO: es una cadena con web propia, píxel de Meta, WhatsApp e Instagram activos. Ya invierten en digital: oportunidad baja (solo pitch de optimización o venta online).",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 20,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre DECOHogar Bazar? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
       "rank": 47
     },
     {
@@ -1464,6 +1510,7 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bazar Los Tres? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
       "rank": 48
     },
     {
@@ -1492,6 +1539,7 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre VeoVeo Juguetería? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
       "rank": 49
     },
     {
@@ -1520,6 +1568,7 @@
       ],
       "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Escaramuza Libros y Café? Sin compromiso.",
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
       "rank": 50
     }
   ]
