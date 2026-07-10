@@ -31,9 +31,15 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
 3. Un dato negativo erróneo en un mensaje de prospección quema al prospecto: el error lo ve el cliente.
 4. Las webs "inestables" pueden ser caídas temporales del proxy de red: reintentar antes de afirmar.
 
-## Pipeline actual (2026-07-08)
+## Pipeline actual (2026-07-10)
 
-- Tanda 1 (redes, 2026-07-06): 10 contactados
+- Tanda 1 (redes, 2026-07-06): 10 contactados — follow-up ya enviado
 - Tanda 2 (email, 2026-07-07): 15 contactados
+- Tanda 3 (email, viernes 2026-07-10): 15 contactados — **follow-up programado:
+  sáb 12/07** (gastro/retail que atiende finde) **o lun 13/07** (clínicas, mayoristas, cadenas);
+  ver columna "Fecha follow-up" del dashboard
 - Respondieron: **Tandory** (usa Meitre; pivot = alimentar la agenda) y
   **Podología Total / Stella Pérez** (reunión propuesta jueves 14:00 o sábado 10:20 + diagnóstico gratis)
+- Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
+  El Bebote, Pomelo, Parrillada Montevideo, MVD Clínica Odontológica, Bienestar Dental,
+  Casa Frottis, Bazar Los Tres, La 9*, Don Aurelio*, etc. (*ya contactados por redes en tanda 1)
