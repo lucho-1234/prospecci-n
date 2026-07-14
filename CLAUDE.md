@@ -40,6 +40,11 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   ver columna "Fecha follow-up" del dashboard
 - Respondieron: **Tandory** (usa Meitre; pivot = alimentar la agenda) y
   **Podología Total / Stella Pérez** (reunión propuesta jueves 14:00 o sábado 10:20 + diagnóstico gratis)
+- **Puerta fría (martes 14/07, Centro)**: 3 visitas —
+  **Bazar News** ✅ conseguido mail de la encargada de RRSS/marketing (pedir el dato a Luciano;
+  próximo paso: icebreaker dirigido a ella con el hallazgo del píxel);
+  **Gift Shop** y **Amatista** ✗ "no necesitamos el servicio actualmente", no aceptaron contacto
+  → estado "No interesado", retomar en 3-6 meses
 - Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
   El Bebote, Pomelo, Parrillada Montevideo, MVD Clínica Odontológica, Bienestar Dental,
   Casa Frottis, Bazar Los Tres, La 9*, Don Aurelio*, etc. (*ya contactados por redes en tanda 1)
