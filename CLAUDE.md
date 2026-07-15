@@ -25,6 +25,8 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
    - **García Parrilla**: se analizó un dominio incorrecto (parrilladagarcia.com) → la web real es garcia.com.uy.
    - **DECOHogar**: se reportó "sin web" → es una cadena con web propia y píxel instalado.
    - **Primuseum**: se reportó "sin web" → tiene primuseum.com con email de contacto.
+   - **My Spa**: se reportó "sin web" → tiene myspauruguay.com (no accesible desde la red del
+     entorno; verificar manualmente). Sin email público (verificación agotada 15/07).
 2. Antes de reportar un dato negativo, cruzar SIEMPRE: búsqueda del nombre + "email/contacto",
    la página /contacto del sitio, directorios locales (opina.com.uy, guiacomercial.uy, salimostour),
    Instagram/Facebook del negocio, y variantes de dominio (.com.uy, .uy, .com).
