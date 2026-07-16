@@ -52,6 +52,14 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   (096 416 000; próximo paso: WhatsApp con el pitch de comisiones de PedidosYa);
   **My Spa** ✗ dijo que no → "No interesado", retomar en 3-6 meses;
   **Bazar El Tío** y **Estrecho**: no atendieron → reintentar (Estrecho solo abre mediodía L-V)
+- **Jornada doble (jueves 17/07)**: 5 llamadas + 3 puertas frías —
+  **TCP** ✅ contacto del encargado de marketing/redes (091 602 733);
+  **Estrecho** 🔥 contacto de los DUEÑOS en persona (094 828 504 + email a verificar);
+  **DECOHogar** ✅ mail de Virginia, supervisora (virginia@decohogar.com.uy) — recibimiento
+  exigente pero terminó en sonrisa: Luciano manejó bien la presión;
+  Pomelo, MVD Odontológica, Bienestar Dental y Casa Frottis sin respuesta (reintentar);
+  Primuseum cerrado de día (reintentar a la tarde). WhatsApp a Federico (Don Aurelio)
+  enviado jueves 11:30.
 - Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
   El Bebote, Pomelo, Parrillada Montevideo, MVD Clínica Odontológica, Bienestar Dental,
   Casa Frottis, Bazar Los Tres, La 9*, Don Aurelio*, etc. (*ya contactados por redes en tanda 1)
