@@ -47,6 +47,11 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   próximo paso: icebreaker dirigido a ella con el hallazgo del píxel);
   **Gift Shop** y **Amatista** ✗ "no necesitamos el servicio actualmente", no aceptaron contacto
   → estado "No interesado", retomar en 3-6 meses
+- **Llamadas en frío (miércoles 16/07)**: 4 llamadas —
+  **Don Aurelio** ✅ contacto directo conseguido: FEDERICO, encargado de anuncios y redes
+  (096 416 000; próximo paso: WhatsApp con el pitch de comisiones de PedidosYa);
+  **My Spa** ✗ dijo que no → "No interesado", retomar en 3-6 meses;
+  **Bazar El Tío** y **Estrecho**: no atendieron → reintentar (Estrecho solo abre mediodía L-V)
 - Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
   El Bebote, Pomelo, Parrillada Montevideo, MVD Clínica Odontológica, Bienestar Dental,
   Casa Frottis, Bazar Los Tres, La 9*, Don Aurelio*, etc. (*ya contactados por redes en tanda 1)
