@@ -344,42 +344,6 @@
       "rank": 9
     },
     {
-      "nombre": "RealEssence Podología",
-      "rubro": "Clínicas",
-      "subrubro": "Podología",
-      "zona": "Pocitos",
-      "web": "realessenceuy.com",
-      "estado": "inaccesible",
-      "telefono": "",
-      "email": "",
-      "instagram": "",
-      "direccion": "Gabriel Pereira 3057",
-      "notas": "Consultorio habilitado (uñas encarnadas, pie diabético, hongos). Web con caídas intermitentes durante el análisis.",
-      "pixel": false,
-      "ga": false,
-      "whatsapp": false,
-      "funnel": false,
-      "responsive": true,
-      "https": true,
-      "ig_activo": false,
-      "score": 70,
-      "prioridad": "Caliente",
-      "hallazgos": [
-        "Su web no respondió durante el análisis (caídas intermitentes)",
-        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
-        "Sin canal de WhatsApp integrado a su presencia digital"
-      ],
-      "mensaje": "Hola, ¿cómo están? Les escribo porque entré a su web y no está cargando — se están perdiendo consultas todos los días. Trabajo con negocios de Montevideo: puedo dejarles una página simple funcionando en días y sumarle campañas de Meta para traer más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre RealEssence Podología? Sin compromiso.",
-      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
-      "estado_contacto": "Pendiente",
-      "fecha_contacto": "",
-      "fecha_followup": "",
-      "puerta_fria": "",
-      "llamada_fecha": "",
-      "llamada_resultado": "",
-      "rank": 10
-    },
-    {
       "nombre": "Serenity Holistic Spa",
       "rubro": "Clínicas",
       "subrubro": "Bienestar / spa",
@@ -413,7 +377,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 11
+      "rank": 10
     },
     {
       "nombre": "TCP – Terapia Científica Podológica",
@@ -449,7 +413,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Contacto conseguido: encargado de marketing y redes — 091 602 733",
-      "rank": 12
+      "rank": 11
     },
     {
       "nombre": "El Bebote de TikTok",
@@ -485,7 +449,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 13
+      "rank": 12
     },
     {
       "nombre": "Estrecho",
@@ -521,7 +485,7 @@
       "puerta_fria": "Visitado 17/07 (Sarandí 460)",
       "llamada_fecha": "2026-07-16",
       "llamada_resultado": "No atendió — resuelto en persona el 17/07: contacto de los dueños conseguido",
-      "rank": 14
+      "rank": 13
     },
     {
       "nombre": "Pomelo",
@@ -557,7 +521,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 15
+      "rank": 14
     },
     {
       "nombre": "Podología Total",
@@ -592,6 +556,44 @@
       "servicio_pitch": "Gestión de Meta Ads + funnel simple",
       "estado_contacto": "Respondió",
       "fecha_contacto": "2026-07-07",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 15
+    },
+    {
+      "nombre": "Bienestar Fisioterapia Personalizada",
+      "rubro": "Clínicas",
+      "subrubro": "Fisioterapia",
+      "zona": "Parque Batlle y Carrasco",
+      "web": "bienestarfp.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "info@bienestarfp.com.uy",
+      "instagram": "",
+      "direccion": "Dos sedes",
+      "notas": "Dos sedes y web de otra época: no adaptada a celular, sin analítica, sin WhatsApp, sin píxel ni agenda online. De lo más desactualizado del rubro salud.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": false,
+      "https": true,
+      "ig_activo": false,
+      "score": 60,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)",
+        "Web no adaptada a celular"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bienestar Fisioterapia Personalizada? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
       "fecha_followup": "",
       "puerta_fria": "",
       "llamada_fecha": "",
@@ -713,6 +715,44 @@
       "rank": 19
     },
     {
+      "nombre": "Bar Tabaré",
+      "rubro": "Restaurantes",
+      "subrubro": "Bar histórico / gastropub",
+      "zona": "Punta Carretas",
+      "web": "bartabare.com",
+      "estado": "ok",
+      "telefono": "2712 3242",
+      "email": "bartabare@bartabare.com",
+      "instagram": "@cafe_bar_tabare",
+      "direccion": "Zorrilla de San Martín 152",
+      "notas": "Bar notable centenario de Punta Carretas, ícono gastronómico y cultural. Web de páginas HTML estáticas: sin píxel, sin analítica, sin WhatsApp ni reservas online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 60,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bar Tabaré? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 20
+    },
+    {
       "nombre": "Primuseum",
       "rubro": "Restaurantes",
       "subrubro": "Cena-show de tango",
@@ -748,7 +788,7 @@
       "puerta_fria": "Visitado 17/07 — cerrado (Pérez Castellano 1389)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 20
+      "rank": 21
     },
     {
       "nombre": "Recoleta Pizza & Parrilla",
@@ -786,7 +826,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 21
+      "rank": 22
     },
     {
       "nombre": "Tandory",
@@ -822,7 +862,118 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 22
+      "rank": 23
+    },
+    {
+      "nombre": "Clínica Odontológica Dr. Sales",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología",
+      "zona": "Parque Rodó",
+      "web": "clinicasales.com.uy",
+      "estado": "ok",
+      "telefono": "2419 8941",
+      "email": "info@clinicasales.com.uy",
+      "instagram": "",
+      "direccion": "Juan Paullier 1020",
+      "notas": "Web de estructura antigua (carpeta /web/, HTML plano). OJO: 1 referencia ambigua a Facebook Connect — NO afirmar 'sin píxel' sin verificar; usar el ángulo de web desactualizada. Sin WhatsApp ni turnos online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 55,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Clínica Odontológica Dr. Sales? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 24
+    },
+    {
+      "nombre": "Sandra Reyes En Sueños",
+      "rubro": "Clínicas",
+      "subrubro": "Estética / peluquería / cursos",
+      "zona": "Av. Italia y A. Gallinal",
+      "web": "sandrareyensuenos.wixsite.com/ensuenos",
+      "estado": "ok",
+      "telefono": "094 084 362",
+      "email": "sandrareyensuenos@gmail.com",
+      "instagram": "",
+      "direccion": "Alejandro Gallinal 1852",
+      "notas": "Centro estético con cursos profesionales y horario extendido (7 a 22 h). Su web vive en un subdominio GRATUITO de Wix — ni dominio propio tiene. Titular: SANDRA.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 55,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Sandra Reyes En Sueños? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 25
+    },
+    {
+      "nombre": "El Palenque",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrilla / restaurante español",
+      "zona": "Mercado del Puerto",
+      "web": "elpalenque.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "info@elpalenque.com",
+      "instagram": "",
+      "direccion": "Pérez Castellano 1579",
+      "notas": "Clásico del Mercado del Puerto. Web sin píxel, sin analítica y sin WhatsApp: el turismo lo encuentra caminando, no online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 55,
+      "prioridad": "Alta",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Palenque? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 26
     },
     {
       "nombre": "Clínica Fisiomed",
@@ -859,7 +1010,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 23
+      "rank": 27
     },
     {
       "nombre": "Dental.uy",
@@ -896,7 +1047,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 24
+      "rank": 28
     },
     {
       "nombre": "Podología Clínica",
@@ -932,7 +1083,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 25
+      "rank": 29
     },
     {
       "nombre": "Parrillada Montevideo",
@@ -968,7 +1119,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 26
+      "rank": 30
     },
     {
       "nombre": "Cinesia",
@@ -1004,7 +1155,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 27
+      "rank": 31
     },
     {
       "nombre": "Consultorio Brandariz",
@@ -1040,7 +1191,79 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 28
+      "rank": 32
+    },
+    {
+      "nombre": "Fisioterapia Uruguay",
+      "rubro": "Clínicas",
+      "subrubro": "Fisioterapia",
+      "zona": "Montevideo",
+      "web": "fisioterapia.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "consultas@fisioterapia.uy",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Dominio premium del rubro (fisioterapia.uy) con WhatsApp pero sin píxel, sin analítica ni agenda online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Fisioterapia Uruguay? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 33
+    },
+    {
+      "nombre": "RealEssence Podología",
+      "rubro": "Clínicas",
+      "subrubro": "Podología / estética integral",
+      "zona": "Pocitos",
+      "web": "realessenceuy.com",
+      "estado": "ok",
+      "telefono": "",
+      "email": "info@realessence.com",
+      "instagram": "",
+      "direccion": "Gabriel Pereira 3057",
+      "notas": "CORREGIDO 17/07: web activa (las fallas eran caídas intermitentes). Estética integral y bienestar + podología habilitada (uñas encarnadas, pie diabético). Con WhatsApp pero sin píxel, sin analítica ni agenda online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre RealEssence Podología? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 34
     },
     {
       "nombre": "El Rastro Parrillita",
@@ -1076,7 +1299,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 29
+      "rank": 35
     },
     {
       "nombre": "García Parrilla Clásica y Bar",
@@ -1113,7 +1336,79 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 30
+      "rank": 36
+    },
+    {
+      "nombre": "La 32 Parrillada",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada",
+      "zona": "Montevideo",
+      "web": "la32parrillada.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "la32parrillada@gmail.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Parrillada con WhatsApp, sin píxel ni analítica ni reservas online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre La 32 Parrillada? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 37
+    },
+    {
+      "nombre": "La Otra Parrilla",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada",
+      "zona": "Montevideo",
+      "web": "laotraparrilla.com",
+      "estado": "ok",
+      "telefono": "",
+      "email": "santiago@laotraparrilla.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Parrillada con WhatsApp pero sin píxel, sin analítica ni reservas online. Contacto con nombre: SANTIAGO.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)",
+        "Sin analítica instalada (Google Analytics)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre La Otra Parrilla? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 38
     },
     {
       "nombre": "La Perdiz",
@@ -1150,7 +1445,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 31
+      "rank": 39
     },
     {
       "nombre": "ABC Home Bazar",
@@ -1185,7 +1480,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 32
+      "rank": 40
     },
     {
       "nombre": "Bazar News",
@@ -1221,7 +1516,7 @@
       "puerta_fria": "≈650 m · 8 min a pie (18 de Julio 1549)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 33
+      "rank": 41
     },
     {
       "nombre": "Casa Frottis",
@@ -1257,7 +1552,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 34
+      "rank": 42
     },
     {
       "nombre": "Casa Jorge Mayorista",
@@ -1293,7 +1588,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 35
+      "rank": 43
     },
     {
       "nombre": "Tiendas Montevideo",
@@ -1329,7 +1624,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 36
+      "rank": 44
     },
     {
       "nombre": "MVD Clínica Odontológica",
@@ -1364,7 +1659,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 37
+      "rank": 45
     },
     {
       "nombre": "Punto Odontológico",
@@ -1399,7 +1694,42 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 38
+      "rank": 46
+    },
+    {
+      "nombre": "Tu Zona Spa",
+      "rubro": "Clínicas",
+      "subrubro": "Spa / depilación / masajes",
+      "zona": "Montevideo",
+      "web": "tuzonaspa.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "msandrapinna@hotmail.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Spa con WhatsApp y analítica pero sin píxel ni agenda online. Email personal de la titular (Sandra Pinna).",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 40,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin funnel de conversión (ni reservas/agenda online ni venta directa)"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tu Zona Spa? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 47
     },
     {
       "nombre": "Diego Centro Mayorista",
@@ -1435,7 +1765,7 @@
       "puerta_fria": "≈1,1 km · 14 min a pie (Arenal Grande 2187)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 39
+      "rank": 48
     },
     {
       "nombre": "be-eme",
@@ -1471,7 +1801,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 40
+      "rank": 49
     },
     {
       "nombre": "Natural Beauty",
@@ -1507,7 +1837,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 41
+      "rank": 50
     },
     {
       "nombre": "Bazar Grupo Dos",
@@ -1542,7 +1872,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 42
+      "rank": 51
     },
     {
       "nombre": "Bienestar Dental",
@@ -1577,7 +1907,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 43
+      "rank": 52
     },
     {
       "nombre": "Syncros Fisioterapia",
@@ -1612,7 +1942,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 44
+      "rank": 53
     },
     {
       "nombre": "ViaAqua Spa",
@@ -1647,7 +1977,177 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 45
+      "rank": 54
+    },
+    {
+      "nombre": "Bazar Casa Martinez",
+      "rubro": "Bazares",
+      "subrubro": "Bazar / hogar",
+      "zona": "Montevideo",
+      "web": "bazarcasamartinez.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "casamartinez09@hotmail.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Bazar con tienda online sin píxel. Email en Hotmail: digitalización artesanal, decisor accesible.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bazar Casa Martinez? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 55
+    },
+    {
+      "nombre": "Big Party",
+      "rubro": "Bazares",
+      "subrubro": "Cotillón / fiestas",
+      "zona": "Montevideo",
+      "web": "bigparty.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "bigpartycotillonventas@gmail.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Tienda online de cotillón SIN píxel de Meta: venden online sin poder retargetear a quien visita.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Big Party? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 56
+    },
+    {
+      "nombre": "Bethel Spa",
+      "rubro": "Clínicas",
+      "subrubro": "Spa / estética (cadena)",
+      "zona": "Varias zonas",
+      "web": "bethelspa.com",
+      "estado": "ok",
+      "telefono": "",
+      "email": "bethel@bethelspa.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Única cadena de centros de estética y spa del país. Vende gift cards online pero sin píxel de Meta.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bethel Spa? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 57
+    },
+    {
+      "nombre": "Del Prado Odontología Integral",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología",
+      "zona": "Prado",
+      "web": "odontologiadelprado.com",
+      "estado": "ok",
+      "telefono": "2309 7106",
+      "email": "info@odontologiadelprado.com",
+      "instagram": "",
+      "direccion": "Av. Agraciada 3418",
+      "notas": "Clínica con turnos online y WhatsApp pero sin píxel de Meta: ticket alto sin medición de campañas.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Del Prado Odontología Integral? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 58
+    },
+    {
+      "nombre": "Spa Cordón",
+      "rubro": "Clínicas",
+      "subrubro": "Spa / masajes / estética",
+      "zona": "Cordón",
+      "web": "spacordon.com.uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "relaxtotal@spacordon.com.uy",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Spa urbano en Cordón con venta de servicios online pero sin píxel de Meta.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Spa Cordón? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 59
     },
     {
       "nombre": "Casajardín",
@@ -1682,7 +2182,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 46
+      "rank": 60
     },
     {
       "nombre": "DECOHogar Bazar",
@@ -1717,7 +2217,7 @@
       "puerta_fria": "Visitado 17/07 (Sarandí 526)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 47
+      "rank": 61
     },
     {
       "nombre": "Bazar Los Tres",
@@ -1751,7 +2251,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 48
+      "rank": 62
     },
     {
       "nombre": "VeoVeo Juguetería",
@@ -1785,7 +2285,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 49
+      "rank": 63
     },
     {
       "nombre": "Escaramuza Libros y Café",
@@ -1819,7 +2319,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 50
+      "rank": 64
     }
   ]
 }
