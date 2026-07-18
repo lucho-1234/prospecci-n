@@ -60,6 +60,13 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   Pomelo, MVD Odontológica, Bienestar Dental y Casa Frottis sin respuesta (reintentar);
   Primuseum cerrado de día (reintentar a la tarde). WhatsApp a Federico (Don Aurelio)
   enviado jueves 11:30.
+- **Tanda 5 (email, viernes 2026-07-18 21 h)**: 15 mails de la oleada 4 (14 prospectos
+  nuevos verificados + RealEssence). Follow-up programado: martes 22/07.
+  Follow-ups 2º toque enviados 18/07 a: García, Centro Kinesiológico, Vital Pie y Recoleta
+  (si no responden, pausar).
+- **Plan lunes 21/07**: escribir a los contactos ganados en persona — dueños de Estrecho
+  (094 828 504 / contacto@estrecho.uy), Virginia de DECOHogar (virginia@decohogar.com.uy),
+  encargado de marketing de TCP (091 602 733) y encargada de RRSS de Bazar News.
 - Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
   El Bebote, Pomelo, Parrillada Montevideo, MVD Clínica Odontológica, Bienestar Dental,
   Casa Frottis, Bazar Los Tres, La 9*, Don Aurelio*, etc. (*ya contactados por redes en tanda 1)
