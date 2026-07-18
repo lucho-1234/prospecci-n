@@ -33,6 +33,17 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
 3. Un dato negativo erróneo en un mensaje de prospección quema al prospecto: el error lo ve el cliente.
 4. Las webs "inestables" pueden ser caídas temporales del proxy de red: reintentar antes de afirmar.
 
+## Números reales (al viernes 2026-07-18)
+
+- Contactos por mensaje (1er toque): **56** (10 redes + 45 email + 1 Tandory) · Seguimientos: 11
+  (4 de los 10 follow-ups de tanda 1 + Stella + Tandory pivot + WhatsApp Federico + 4 del 2º toque)
+- Llamadas en frío: **9** · Puertas frías: **6** · Contenidos publicados: **3**
+- Respuestas/interacciones positivas: **7** (2 a mensajes fríos, 5 decisores en persona/teléfono)
+- "No" explícitos: 3 · Reuniones: **0** (Stella ofreció llamada, quedó en reproponer) ·
+  Propuestas: **0** · Cierres: **0**
+- Insight: mensajes fríos ~3,6% de respuesta; presencial/teléfono **33%** de decisores → el canal
+  fuerte de Luciano es la presencia; el mail abre, la visita cierra.
+
 ## Pipeline actual (2026-07-10)
 
 - Tanda 1 (redes, 2026-07-06): 10 contactados — follow-up ya enviado
