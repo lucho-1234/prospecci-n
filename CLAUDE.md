@@ -75,7 +75,7 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   nuevos verificados + RealEssence). Follow-up programado: martes 22/07.
   Follow-ups 2º toque enviados 18/07 a: García, Centro Kinesiológico, Vital Pie y Recoleta
   (si no responden, pausar).
-- **Plan lunes 21/07**: escribir a los contactos ganados en persona — dueños de Estrecho
+- **Lunes 21/07 EJECUTADO ✅**: 6 toques enviados a los contactos calientes — dueños de Estrecho
   (094 828 504 / contacto@estrecho.uy), Virginia de DECOHogar (virginia@decohogar.com.uy),
   encargado de marketing de TCP (091 602 733) y encargada de RRSS de Bazar News.
 - Sin contactar aún (sin email público, ir por WhatsApp/tel/IG): RealEssence, TCP,
