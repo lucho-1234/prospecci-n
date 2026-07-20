@@ -52,7 +52,7 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
   sáb 12/07** (gastro/retail que atiende finde) **o lun 13/07** (clínicas, mayoristas, cadenas);
   ver columna "Fecha follow-up" del dashboard
 - Respondieron: **Tandory** (usa Meitre; pivot = alimentar la agenda) y
-  **Podología Total / Stella Pérez** (reunión propuesta jueves 14:00 o sábado 10:20 + diagnóstico gratis)
+  **Podología Total / Stella Pérez** — ⏸️ EN PAUSA desde 21/07 (esposo con problemas de salud; ella pidió retomar). NO contactar hasta ~18/08; al retomar, preguntar primero por la familia
 - **Puerta fría (martes 14/07, Centro)**: 3 visitas —
   **Bazar News** ✅ conseguido mail de la encargada de RRSS/marketing (pedir el dato a Luciano;
   próximo paso: icebreaker dirigido a ella con el hallazgo del píxel);
