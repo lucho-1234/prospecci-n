@@ -61,7 +61,7 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
 - **Llamadas en frío (miércoles 16/07)**: 4 llamadas —
   **Don Aurelio** ✅ contacto directo conseguido: FEDERICO, encargado de anuncios y redes
   (096 416 000; próximo paso: WhatsApp con el pitch de comisiones de PedidosYa);
-  **My Spa** ✗ dijo que no → "No interesado", retomar en 3-6 meses;
+  **My Spa** ✗ dijo que no → "No interesado", retomar en 3-6 meses; **Don Aurelio/Federico** ✗ respondió 24/07 que por ahora no → "No interesado", retomar en 4-6 meses;
   **Bazar El Tío** y **Estrecho**: no atendieron → reintentar (Estrecho solo abre mediodía L-V)
 - **Jornada doble (jueves 17/07)**: 5 llamadas + 3 puertas frías —
   **TCP** ✅ contacto del encargado de marketing/redes (091 602 733);
