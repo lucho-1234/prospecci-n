@@ -15,6 +15,272 @@
   },
   "prospectos": [
     {
+      "nombre": "Cuisine",
+      "rubro": "Bazares",
+      "subrubro": "Bazar gastronómico / cocina",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@cuisine.uy",
+      "direccion": "",
+      "notas": "Bazar de artículos de cocina de alta gama. Presencia solo en IG detectada; verificar tienda online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Cuisine? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 1
+    },
+    {
+      "nombre": "Dulce Placer",
+      "rubro": "Bazares",
+      "subrubro": "Repostería / regalería dulce",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@dulceplacer.uy",
+      "direccion": "",
+      "notas": "Repostería y regalos dulces con IG. Sin web ni tienda online propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Dulce Placer? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 2
+    },
+    {
+      "nombre": "Pushka",
+      "rubro": "Bazares",
+      "subrubro": "Regalería / deco",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@pushka.uy",
+      "direccion": "",
+      "notas": "Regalería con estética cuidada en IG. Sin web ni tienda online propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Pushka? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 3
+    },
+    {
+      "nombre": "Bio Bronze",
+      "rubro": "Clínicas",
+      "subrubro": "Estética / bronceado",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@biobronze.uy",
+      "direccion": "",
+      "notas": "Estética y bronceado con IG activo. Sin web ni sistema de reservas propio detectado.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bio Bronze? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 4
+    },
+    {
+      "nombre": "BodyHealth",
+      "rubro": "Clínicas",
+      "subrubro": "Fisioterapia / rehabilitación",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@bodyhealth.uy",
+      "direccion": "",
+      "notas": "Centro de fisioterapia y rehabilitación. Presencia en redes; verificar web y agenda.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre BodyHealth? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 5
+    },
+    {
+      "nombre": "Centro Estético Carolina Morales",
+      "rubro": "Clínicas",
+      "subrubro": "Estética integral / peluquería",
+      "zona": "Cordón",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "098 911 302",
+      "email": "moralescastrocarolina3@gmail.com",
+      "instagram": "",
+      "direccion": "Brandzen 2011",
+      "notas": "Cuidado integral del cabello e imagen. Opera solo por WhatsApp e IG: sin web, sin agenda online, sin funnel. Turnos por mensaje a mano.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Centro Estético Carolina Morales? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 6
+    },
+    {
+      "nombre": "L'AVIE",
+      "rubro": "Clínicas",
+      "subrubro": "Estética integral / medicina estética",
+      "zona": "Pocitos",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@lavie.uy",
+      "direccion": "",
+      "notas": "Centro de estética integral y medicina estética en Pocitos (tickets altos). Presencia solo en redes detectada; sin web ni agenda online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre L'AVIE? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 7
+    },
+    {
       "nombre": "My Spa",
       "rubro": "Clínicas",
       "subrubro": "Bienestar / spa",
@@ -50,7 +316,121 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-16",
       "llamada_resultado": "Dijo que no",
-      "rank": 1
+      "rank": 8
+    },
+    {
+      "nombre": "REAB",
+      "rubro": "Clínicas",
+      "subrubro": "Rehabilitación / fisioterapia",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@reab.uy",
+      "direccion": "",
+      "notas": "Centro de rehabilitación con presencia en IG. Sin web ni agenda online propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre REAB? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 9
+    },
+    {
+      "nombre": "Bar Nostra",
+      "rubro": "Restaurantes",
+      "subrubro": "Bar / cocina",
+      "zona": "Cordón",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@barnostra.uy",
+      "direccion": "",
+      "notas": "Bar con propuesta gastronómica y comunidad en IG. Sin web ni funnel: todo depende del alcance orgánico.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Bar Nostra? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 10
+    },
+    {
+      "nombre": "Cervecería Ramón",
+      "rubro": "Restaurantes",
+      "subrubro": "Cervecería / restó",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@cerveceria.ramon",
+      "direccion": "",
+      "notas": "Cervecería artesanal con IG activo. Sin web ni reservas online propias.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Cervecería Ramón? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 11
     },
     {
       "nombre": "Don Aurelio Pizzas",
@@ -88,7 +468,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-16",
       "llamada_resultado": "Contacto conseguido: Federico, encargado de anuncios y redes — 096 416 000",
-      "rank": 2
+      "rank": 12
     },
     {
       "nombre": "Francachela",
@@ -126,7 +506,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 3
+      "rank": 13
     },
     {
       "nombre": "La 9 Pizza & Parrilla",
@@ -164,7 +544,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 4
+      "rank": 14
     },
     {
       "nombre": "Pistatxo Fusión",
@@ -202,7 +582,121 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 5
+      "rank": 15
+    },
+    {
+      "nombre": "Roldós (Mercado)",
+      "rubro": "Restaurantes",
+      "subrubro": "Bar histórico / vermutería",
+      "zona": "Mercado del Puerto",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@bar.roldos",
+      "direccion": "",
+      "notas": "Bar histórico del Mercado del Puerto (ícono turístico). Sin web propia: el turista lo encuentra caminando, no online.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Roldós (Mercado)? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 16
+    },
+    {
+      "nombre": "Sinatra Bar",
+      "rubro": "Restaurantes",
+      "subrubro": "Bar / restó",
+      "zona": "Pocitos",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@sinatra.mvd",
+      "direccion": "",
+      "notas": "Bar-restó de Pocitos con IG activo. Sin web propia ni sistema de reservas.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Sinatra Bar? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 17
+    },
+    {
+      "nombre": "Tiggre",
+      "rubro": "Restaurantes",
+      "subrubro": "Hamburguesería / bar",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "@tiggre.uy",
+      "direccion": "",
+      "notas": "Hamburguesería con IG. Sin web ni pedidos propios; depende de apps de delivery con comisión.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 75,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tiggre? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 18
     },
     {
       "nombre": "Bazar El Tío",
@@ -239,7 +733,7 @@
       "puerta_fria": "≈1,1 km · 14 min a pie (Arenal Grande 2194)",
       "llamada_fecha": "2026-07-16",
       "llamada_resultado": "No atendió — reintentar",
-      "rank": 6
+      "rank": 19
     },
     {
       "nombre": "Gift Shop",
@@ -276,7 +770,7 @@
       "puerta_fria": "≈350 m · 5 min a pie (18 de Julio 1733)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 7
+      "rank": 20
     },
     {
       "nombre": "Hay de Todo",
@@ -313,7 +807,81 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 8
+      "rank": 21
+    },
+    {
+      "nombre": "Tienda 2001",
+      "rubro": "Bazares",
+      "subrubro": "Bazar / hogar",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Comercio de artículos para el hogar; solo en directorios. Sin canal digital propio detectado.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Tienda 2001? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 22
+    },
+    {
+      "nombre": "Óptica y Bazar Central",
+      "rubro": "Bazares",
+      "subrubro": "Bazar / óptica",
+      "zona": "Centro",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Comercio multirubro del Centro. Solo en directorios; sin canal digital propio.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Óptica y Bazar Central? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 23
     },
     {
       "nombre": "Amatista Centro de Bienestar",
@@ -350,7 +918,81 @@
       "puerta_fria": "≈800 m · 10 min a pie (Colonia 1494)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 9
+      "rank": 24
+    },
+    {
+      "nombre": "Clínica Dental Silva",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Consultorio que solo aparece en directorios. Sin web propia detectada; canal por teléfono/IG.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Clínica Dental Silva? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 25
+    },
+    {
+      "nombre": "Fisiocenter",
+      "rubro": "Clínicas",
+      "subrubro": "Fisioterapia",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Centro de fisioterapia que solo figura en directorios. Sin web propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Fisiocenter? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 26
     },
     {
       "nombre": "Serenity Holistic Spa",
@@ -387,7 +1029,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 10
+      "rank": 27
     },
     {
       "nombre": "TCP – Terapia Científica Podológica",
@@ -424,7 +1066,44 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Contacto conseguido: encargado de marketing y redes — 091 602 733",
-      "rank": 11
+      "rank": 28
+    },
+    {
+      "nombre": "Wellness Uruguay",
+      "rubro": "Clínicas",
+      "subrubro": "Spa / bienestar",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Centro de bienestar presente en directorios. Sin web propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Wellness Uruguay? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 29
     },
     {
       "nombre": "El Bebote de TikTok",
@@ -461,7 +1140,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 12
+      "rank": 30
     },
     {
       "nombre": "Estrecho",
@@ -498,7 +1177,81 @@
       "puerta_fria": "Visitado 17/07 (Sarandí 460)",
       "llamada_fecha": "2026-07-16",
       "llamada_resultado": "No atendió — resuelto en persona el 17/07: contacto de los dueños conseguido",
-      "rank": 13
+      "rank": 31
+    },
+    {
+      "nombre": "La Cabaña del Chef",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada / restaurante",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Parrilla que solo figura en directorios y apps de delivery. Sin infraestructura digital propia detectada.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre La Cabaña del Chef? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 32
+    },
+    {
+      "nombre": "Manzanar",
+      "rubro": "Restaurantes",
+      "subrubro": "Restaurante",
+      "zona": "Montevideo",
+      "web": "",
+      "estado": "sin_web",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Restaurante presente en reseñas pero sin web propia detectada. Verificar canal de reservas.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": false,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 70,
+      "prioridad": "Caliente",
+      "hallazgos": [
+        "No tiene web propia — todo el negocio depende de redes o del local físico",
+        "Sin funnel de conversión (nada que capture consultas o reservas 24/7)",
+        "Sin canal de WhatsApp integrado a su presencia digital"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque vi que hoy manejan todo por redes/el local y no tienen una página propia donde caigan las consultas. Trabajo con negocios de Montevideo: armo funnels simples (una página + WhatsApp) y campañas en Instagram/Facebook para convertir ese movimiento en más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Manzanar? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 33
     },
     {
       "nombre": "Pomelo",
@@ -535,7 +1288,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 14
+      "rank": 34
     },
     {
       "nombre": "Podología Total",
@@ -575,7 +1328,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 15
+      "rank": 35
     },
     {
       "nombre": "Bienestar Fisioterapia Personalizada",
@@ -614,7 +1367,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 16
+      "rank": 36
     },
     {
       "nombre": "Centro Kinesiológico",
@@ -653,7 +1406,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 17
+      "rank": 37
     },
     {
       "nombre": "Clínica Odontológica Las Torres",
@@ -692,7 +1445,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 18
+      "rank": 38
     },
     {
       "nombre": "Vital Pie",
@@ -731,7 +1484,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 19
+      "rank": 39
     },
     {
       "nombre": "Bar Tabaré",
@@ -770,7 +1523,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 20
+      "rank": 40
     },
     {
       "nombre": "Primuseum",
@@ -809,7 +1562,7 @@
       "puerta_fria": "Visitado 17/07 — cerrado (Pérez Castellano 1389)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 21
+      "rank": 41
     },
     {
       "nombre": "Recoleta Pizza & Parrilla",
@@ -848,7 +1601,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 22
+      "rank": 42
     },
     {
       "nombre": "Tandory",
@@ -885,7 +1638,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 23
+      "rank": 43
     },
     {
       "nombre": "Clínica Odontológica Dr. Sales",
@@ -923,7 +1676,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 24
+      "rank": 44
     },
     {
       "nombre": "Sandra Reyes En Sueños",
@@ -961,7 +1714,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 25
+      "rank": 45
     },
     {
       "nombre": "El Palenque",
@@ -999,7 +1752,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 26
+      "rank": 46
     },
     {
       "nombre": "Clínica Fisiomed",
@@ -1037,7 +1790,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 27
+      "rank": 47
     },
     {
       "nombre": "Dental.uy",
@@ -1075,7 +1828,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 28
+      "rank": 48
     },
     {
       "nombre": "Podología Clínica",
@@ -1112,7 +1865,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 29
+      "rank": 49
     },
     {
       "nombre": "Parrillada Montevideo",
@@ -1149,7 +1902,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 30
+      "rank": 50
     },
     {
       "nombre": "Cinesia",
@@ -1186,7 +1939,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 31
+      "rank": 51
     },
     {
       "nombre": "Consultorio Brandariz",
@@ -1223,7 +1976,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 32
+      "rank": 52
     },
     {
       "nombre": "Fisioterapia Uruguay",
@@ -1260,7 +2013,45 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 33
+      "rank": 53
+    },
+    {
+      "nombre": "Kadin Estética Integral",
+      "rubro": "Clínicas",
+      "subrubro": "Estética integral",
+      "zona": "Montevideo",
+      "web": "kadin.agendapro.com/uy",
+      "estado": "ok",
+      "telefono": "",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Ya usa AgendaPro (agenda online) — tiene la infraestructura de reservas, pero corre sobre plataforma de terceros sin web propia ni píxel: falta el tráfico pago que llene esa agenda.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Kadin Estética Integral? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 54
     },
     {
       "nombre": "RealEssence Podología",
@@ -1297,7 +2088,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 34
+      "rank": 55
     },
     {
       "nombre": "El Rastro Parrillita",
@@ -1334,7 +2125,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 35
+      "rank": 56
     },
     {
       "nombre": "García Parrilla Clásica y Bar",
@@ -1372,7 +2163,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 36
+      "rank": 57
     },
     {
       "nombre": "La 32 Parrillada",
@@ -1409,7 +2200,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 37
+      "rank": 58
     },
     {
       "nombre": "La Otra Parrilla",
@@ -1446,7 +2237,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 38
+      "rank": 59
     },
     {
       "nombre": "La Perdiz",
@@ -1484,7 +2275,45 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 39
+      "rank": 60
+    },
+    {
+      "nombre": "Los Laureles",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada",
+      "zona": "Carrasco",
+      "web": "loslaureles.com.uy",
+      "estado": "ok",
+      "telefono": "2506 2422",
+      "email": "",
+      "instagram": "",
+      "direccion": "Carrasco",
+      "notas": "Parrilla de Carrasco (zona de alto poder adquisitivo). Web MUY básica: solo reservas, SIN píxel, SIN analítica, SIN WhatsApp. De lo más desaprovechado para el barrio en que está.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 45,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Los Laureles? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 61
     },
     {
       "nombre": "ABC Home Bazar",
@@ -1520,7 +2349,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 40
+      "rank": 62
     },
     {
       "nombre": "Bazar News",
@@ -1557,7 +2386,7 @@
       "puerta_fria": "≈650 m · 8 min a pie (18 de Julio 1549)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 41
+      "rank": 63
     },
     {
       "nombre": "Casa Frottis",
@@ -1594,7 +2423,7 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 42
+      "rank": 64
     },
     {
       "nombre": "Casa Jorge Mayorista",
@@ -1631,7 +2460,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 43
+      "rank": 65
     },
     {
       "nombre": "Tiendas Montevideo",
@@ -1668,7 +2497,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 44
+      "rank": 66
     },
     {
       "nombre": "MVD Clínica Odontológica",
@@ -1704,7 +2533,44 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 45
+      "rank": 67
+    },
+    {
+      "nombre": "Masajes Carrasco",
+      "rubro": "Clínicas",
+      "subrubro": "Centro de bienestar / masajes",
+      "zona": "Carrasco",
+      "web": "masajescarrasco.com",
+      "estado": "ok",
+      "telefono": "",
+      "email": "masajescarrasco@outlook.com",
+      "instagram": "",
+      "direccion": "Carrasco",
+      "notas": "Centro de bienestar en Carrasco con reservas online, pero SIN píxel, SIN analítica y SIN WhatsApp. Zona premium desaprovechada.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 40,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Masajes Carrasco? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 68
     },
     {
       "nombre": "Punto Odontológico",
@@ -1740,7 +2606,44 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 46
+      "rank": 69
+    },
+    {
+      "nombre": "Roxana Frontán",
+      "rubro": "Clínicas",
+      "subrubro": "Masajes terapéuticos / estética",
+      "zona": "Pocitos",
+      "web": "roxanafrontan.com.uy",
+      "estado": "ok",
+      "telefono": "091 800 351",
+      "email": "rofrontan@gmail.com",
+      "instagram": "",
+      "direccion": "Pedro F. Berro 1297",
+      "notas": "Masajes y estética personal con e-commerce, pero SIN píxel de Meta ni WhatsApp integrado. Email en Gmail: decisora accesible directamente.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 40,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Roxana Frontán? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 70
     },
     {
       "nombre": "Tu Zona Spa",
@@ -1776,7 +2679,44 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 47
+      "rank": 71
+    },
+    {
+      "nombre": "El Fogón",
+      "rubro": "Restaurantes",
+      "subrubro": "Parrillada tradicional",
+      "zona": "Centro y Punta Carretas",
+      "web": "elfogon.com.uy",
+      "estado": "ok",
+      "telefono": "2900 0900",
+      "email": "",
+      "instagram": "",
+      "direccion": "San José 1080",
+      "notas": "Clásico desde 1962, dos locales, cortes Dry Aged. Web sin píxel de Meta y SIN WhatsApp: 'priorizan reservas por teléfono' — dependen del llamado, pierden al que quiere reservar de noche por el celular.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": false,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 40,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin botón de WhatsApp en la web",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Fogón? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 72
     },
     {
       "nombre": "Diego Centro Mayorista",
@@ -1813,7 +2753,7 @@
       "puerta_fria": "≈1,1 km · 14 min a pie (Arenal Grande 2187)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 48
+      "rank": 73
     },
     {
       "nombre": "be-eme",
@@ -1850,7 +2790,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 49
+      "rank": 74
     },
     {
       "nombre": "Natural Beauty",
@@ -1887,7 +2827,118 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 50
+      "rank": 75
+    },
+    {
+      "nombre": "Odontología NL",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología multidisciplinaria",
+      "zona": "Cordón",
+      "web": "odontologianl.com",
+      "estado": "ok",
+      "telefono": "2569 8980",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Clínica que resuelve todo en un lugar. Web con WhatsApp pero sin píxel ni analítica: sin medición de qué trae pacientes.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 35,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Odontología NL? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 76
+    },
+    {
+      "nombre": "Odontología Zingman",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología / Invisalign",
+      "zona": "Pocitos",
+      "web": "odontologiazingman.com",
+      "estado": "ok",
+      "telefono": "091 294 712",
+      "email": "info@odontologiazingman.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Especialista en Invisalign e implantes (tickets muy altos). Web con WhatsApp pero SIN píxel NI analítica: vuela a ciegas en un nicho premium ideal para Meta.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 35,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Odontología Zingman? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 77
+    },
+    {
+      "nombre": "Medio y Medio",
+      "rubro": "Restaurantes",
+      "subrubro": "Restaurante / música en vivo",
+      "zona": "Ciudad Vieja",
+      "web": "medioymedio.com",
+      "estado": "ok",
+      "telefono": "2710 2754",
+      "email": "info@medioymedio.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Restaurante con shows de jazz/tango en vivo — un diferencial enorme para segmentar público. Web con WhatsApp y e-commerce pero SIN píxel: no puede promocionar los shows a quien ya lo visitó.",
+      "pixel": false,
+      "ga": false,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 35,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Sin analítica instalada (Google Analytics)",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más reservas y pedidos. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Medio y Medio? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 78
     },
     {
       "nombre": "Bazar Grupo Dos",
@@ -1923,7 +2974,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 51
+      "rank": 79
     },
     {
       "nombre": "Bienestar Dental",
@@ -1959,7 +3010,43 @@
       "puerta_fria": "",
       "llamada_fecha": "2026-07-17",
       "llamada_resultado": "Sin respuesta — reintentar",
-      "rank": 52
+      "rank": 80
+    },
+    {
+      "nombre": "Odontoplace",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología",
+      "zona": "Cordón",
+      "web": "odontoplaceuy.com",
+      "estado": "ok",
+      "telefono": "2857 1428",
+      "email": "contacto@odontoplaceuy.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Clínica multidisciplinaria con turnos por WhatsApp y e-commerce, pero SIN píxel de Meta: implantes y ortodoncia (ticket alto) sin poder medir ni retargetear campañas.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 30,
+      "prioridad": "Media",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing",
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Odontoplace? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 81
     },
     {
       "nombre": "Syncros Fisioterapia",
@@ -1995,7 +3082,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 53
+      "rank": 82
     },
     {
       "nombre": "ViaAqua Spa",
@@ -2031,7 +3118,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 54
+      "rank": 83
     },
     {
       "nombre": "Bazar Casa Martinez",
@@ -2066,7 +3153,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 55
+      "rank": 84
     },
     {
       "nombre": "Big Party",
@@ -2101,7 +3188,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 56
+      "rank": 85
     },
     {
       "nombre": "Bethel Spa",
@@ -2136,7 +3223,42 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 57
+      "rank": 86
+    },
+    {
+      "nombre": "Consultorio Dental Pocitos",
+      "rubro": "Clínicas",
+      "subrubro": "Odontología",
+      "zona": "Pocitos",
+      "web": "consultorio-dental.uy",
+      "estado": "ok",
+      "telefono": "092 611 613",
+      "email": "info@consultorio-dental.uy",
+      "instagram": "",
+      "direccion": "Av. Sarmiento 2686",
+      "notas": "Horario extendido (8-20 h L-V). Web con WhatsApp y turnos pero SIN píxel de Meta ni analítica.",
+      "pixel": false,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": false,
+      "score": 25,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Sin píxel de Meta: no puede medir campañas ni hacer remarketing"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su web y no tienen instalado el píxel de Meta, o sea que no pueden reconvertir a la gente que ya los visita. Trabajo con negocios de Montevideo: me dedico a gestionar Meta Ads con funnels simples: instalo la medición y armo campañas para generar más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Consultorio Dental Pocitos? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 87
     },
     {
       "nombre": "Del Prado Odontología Integral",
@@ -2171,7 +3293,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 58
+      "rank": 88
     },
     {
       "nombre": "Spa Cordón",
@@ -2206,7 +3328,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 59
+      "rank": 89
     },
     {
       "nombre": "Casajardín",
@@ -2242,7 +3364,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 60
+      "rank": 90
     },
     {
       "nombre": "DECOHogar Bazar",
@@ -2278,7 +3400,7 @@
       "puerta_fria": "Visitado 17/07 (Sarandí 526)",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 61
+      "rank": 91
     },
     {
       "nombre": "Bazar Los Tres",
@@ -2313,7 +3435,112 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 62
+      "rank": 92
+    },
+    {
+      "nombre": "ChauPantallas",
+      "rubro": "Bazares",
+      "subrubro": "Regalería tecno / gadgets",
+      "zona": "Montevideo",
+      "web": "chaupantallas.com",
+      "estado": "ok",
+      "telefono": "099 213 082",
+      "email": "info@chaupantallas.com",
+      "instagram": "",
+      "direccion": "",
+      "notas": "E-commerce de gadgets con píxel ya instalado. Baja necesidad — pitch de optimización.",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 5,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre ChauPantallas? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 93
+    },
+    {
+      "nombre": "El Clon",
+      "rubro": "Bazares",
+      "subrubro": "Bazar / regalería (cadena)",
+      "zona": "23 locales",
+      "web": "elclon.com.uy",
+      "estado": "ok",
+      "telefono": "2519 0983",
+      "email": "ventas@elclon.com.uy",
+      "instagram": "",
+      "direccion": "Múltiples locales",
+      "notas": "Cadena grande (23 locales) con píxel y e-commerce ya instalados. Oportunidad BAJA: solo pitch de optimización de campañas o venta cruzada. Decisión corporativa.",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 5,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Clon? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 94
+    },
+    {
+      "nombre": "El Paisano / Divino",
+      "rubro": "Bazares",
+      "subrubro": "Deco / hogar / muebles",
+      "zona": "Montevideo",
+      "web": "divino.com.uy",
+      "estado": "ok",
+      "telefono": "2597 5300",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Casa de deco y muebles con e-commerce y píxel ya instalados. Baja necesidad — pitch de optimización de campañas o catálogo estacional.",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 5,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más ventas. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre El Paisano / Divino? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 95
     },
     {
       "nombre": "VeoVeo Juguetería",
@@ -2348,7 +3575,77 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 63
+      "rank": 96
+    },
+    {
+      "nombre": "Espacio Hifu",
+      "rubro": "Clínicas",
+      "subrubro": "Estética / tecnología HIFU",
+      "zona": "Montevideo y Punta del Este",
+      "web": "espaciohifu.com",
+      "estado": "ok",
+      "telefono": "099 944 143",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Centro de estética con píxel y e-commerce ya instalados. Baja necesidad — pitch de optimización de campañas.",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 5,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Espacio Hifu? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 97
+    },
+    {
+      "nombre": "Skincare Medicina Estética",
+      "rubro": "Clínicas",
+      "subrubro": "Medicina estética",
+      "zona": "Montevideo",
+      "web": "skincare.com.uy",
+      "estado": "ok",
+      "telefono": "094 579 281",
+      "email": "",
+      "instagram": "",
+      "direccion": "",
+      "notas": "Clínica de medicina estética con píxel ya instalado. Baja necesidad — optimización.",
+      "pixel": true,
+      "ga": true,
+      "whatsapp": true,
+      "funnel": true,
+      "responsive": true,
+      "https": true,
+      "ig_activo": true,
+      "score": 5,
+      "prioridad": "Baja",
+      "hallazgos": [
+        "Tiene Instagram activo: hay material y audiencia para arrancar campañas ya"
+      ],
+      "mensaje": "Hola, ¿cómo están? Les escribo porque revisé su presencia digital y hay un par de cosas rápidas para mejorar la conversión. Trabajo con negocios de Montevideo: gestiono Meta Ads y funnels simples enfocados en más pacientes y reservas de hora. ¿Les copa que les mande un mini diagnóstico gratis de 3 puntos sobre Skincare Medicina Estética? Sin compromiso.",
+      "servicio_pitch": "Gestión de Meta Ads + funnel simple",
+      "estado_contacto": "Pendiente",
+      "fecha_contacto": "",
+      "fecha_followup": "",
+      "followup_done": "",
+      "puerta_fria": "",
+      "llamada_fecha": "",
+      "llamada_resultado": "",
+      "rank": 98
     },
     {
       "nombre": "Escaramuza Libros y Café",
@@ -2383,7 +3680,7 @@
       "puerta_fria": "",
       "llamada_fecha": "",
       "llamada_resultado": "",
-      "rank": 64
+      "rank": 99
     }
   ]
 }

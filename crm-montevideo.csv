@@ -1,65 +1,100 @@
 ﻿#,Negocio,Rubro,Zona,Score,Prioridad,Estado,Teléfono,Email,Instagram,Fecha contacto,Fecha follow-up,Web
-1,My Spa,Clínicas,Punta Carretas,75,Caliente,No interesado,098 227 362,,facebook.com/MySpaUruguay,2026-07-06,,myspauruguay.com
-2,Don Aurelio Pizzas,Restaurantes,Pocitos,75,Caliente,No interesado,2622 0066 / WA 096 416 000,,@donaureliopizzas,2026-07-06,2026-07-21,
-3,Francachela,Restaurantes,Montevideo,75,Caliente,Contactado,,,@francachela_montevideo,2026-07-06,,
-4,La 9 Pizza & Parrilla,Restaurantes,Montevideo,75,Caliente,Contactado,,,@la9pizzayparrilla.mvd,2026-07-06,,
-5,Pistatxo Fusión,Restaurantes,Pocitos,75,Caliente,Contactado,,,,2026-07-06,,pistatxo.com
-6,Bazar El Tío,Bazares,Villa Muñoz,70,Caliente,Contactado,092 795 886,,,2026-07-06,,
-7,Gift Shop,Bazares,Cordón,70,Caliente,No interesado,,,,2026-07-06,,giftshop.uy
-8,Hay de Todo,Bazares,Montevideo,70,Caliente,Contactado,,,,2026-07-06,,haydetodo.com.uy
-9,Amatista Centro de Bienestar,Clínicas,Centro,70,Caliente,No interesado,,,,2026-07-06,,
-10,Serenity Holistic Spa,Clínicas,Pocitos,70,Caliente,Contactado,,,,2026-07-06,,
-11,TCP – Terapia Científica Podológica,Clínicas,Av. Rivera y Centro,70,Caliente,Respondió,2622 3222 / marketing: 091 602 733,,,2026-07-17,2026-07-21,ortopedia.com.uy
-12,El Bebote de TikTok,Restaurantes,La Blanqueada,70,Caliente,Pendiente,,,,,,
-13,Estrecho,Restaurantes,Ciudad Vieja,70,Caliente,Respondió,2915 6107 / dueños: 094 828 504,contacto@estrecho.uy,,2026-07-07,2026-07-21,
-14,Pomelo,Restaurantes,Punta Carretas,70,Caliente,Contactado,094 223 696,,@pomelo.montevideo,2026-07-17,,
-15,Podología Total,Clínicas,Montevideo,65,Alta,Respondió,099 204 359,info@podologiatotal.com,,2026-07-07,2026-08-18,podologiatotal.com
-16,Bienestar Fisioterapia Personalizada,Clínicas,Parque Batlle y Carrasco,60,Alta,Contactado,,info@bienestarfp.com.uy,,2026-07-18,2026-07-22,bienestarfp.com.uy
-17,Centro Kinesiológico,Clínicas,Montevideo,60,Alta,Contactado,,centrokinesiologico6@gmail.com,,2026-07-07,,centrokinesiologico.com.uy
-18,Clínica Odontológica Las Torres,Clínicas,Montevideo,60,Alta,Contactado,092 553 658,consulastorres@gmail.com,,2026-07-07,,odontolastorres.com
-19,Vital Pie,Clínicas,Montevideo,60,Alta,Contactado,098 740 369,vitalpiepodologiamedica@gmail.com,,2026-07-07,,vitalpie.uy
-20,Bar Tabaré,Restaurantes,Punta Carretas,60,Alta,Contactado,2712 3242,bartabare@bartabare.com,@cafe_bar_tabare,2026-07-18,2026-07-22,bartabare.com
-21,Primuseum,Restaurantes,Ciudad Vieja,60,Alta,Contactado,099 217 645,info@primuseum.com,@primuseum,2026-07-07,,primuseum.com
-22,Recoleta Pizza & Parrilla,Restaurantes,Barrio Sur,60,Alta,Contactado,2901 5325,recoletauy@gmail.com,@recoleta_uy,2026-07-10,,recoleta.com.uy
-23,Tandory,Restaurantes,Pocitos,60,Alta,Respondió,,,@tandory,2026-07-07,,tandory.com.uy
-24,Clínica Odontológica Dr. Sales,Clínicas,Parque Rodó,55,Alta,Contactado,2419 8941,info@clinicasales.com.uy,,2026-07-18,2026-07-22,clinicasales.com.uy
-25,Sandra Reyes En Sueños,Clínicas,Av. Italia y A. Gallinal,55,Alta,Contactado,094 084 362,sandrareyensuenos@gmail.com,,2026-07-18,2026-07-22,sandrareyensuenos.wixsite.com/ensuenos
-26,El Palenque,Restaurantes,Mercado del Puerto,55,Alta,Contactado,,info@elpalenque.com,,2026-07-18,2026-07-22,elpalenque.com.uy
-27,Clínica Fisiomed,Clínicas,Montevideo,50,Alta,Contactado,,contacto@fisiomed.com.uy,,2026-07-07,,fisiomed.com.uy
-28,Dental.uy,Clínicas,Montevideo,50,Alta,Contactado,092 611 613,info@dental.uy,,2026-07-07,,dental.uy
-29,Podología Clínica,Clínicas,Zona Montevideo Shopping,50,Alta,Contactado,097 179 329,info@podologia.com.uy,,2026-07-10,2026-07-13,podologia.com.uy
-30,Parrillada Montevideo,Restaurantes,Montevideo,50,Alta,Pendiente,,,,,,parrillada-montevideo.square.site
-31,Cinesia,Clínicas,Montevideo,45,Media,Contactado,,sapiroluciana@gmail.com,,2026-07-07,,cinesia.uy
-32,Consultorio Brandariz,Clínicas,Bvar. Artigas 1443,45,Media,Contactado,2711 2666,brandarizjoser@gmail.com,,2026-07-10,2026-07-13,brandariz.com.uy
-33,Fisioterapia Uruguay,Clínicas,Montevideo,45,Media,Contactado,,consultas@fisioterapia.uy,,2026-07-18,2026-07-22,fisioterapia.uy
-34,RealEssence Podología,Clínicas,Pocitos,45,Media,Contactado,,info@realessence.com,,2026-07-18,2026-07-22,realessenceuy.com
-35,El Rastro Parrillita,Restaurantes,Cordón,45,Media,Contactado,2408 2129,reservas@elrastroparrillita.com.uy,@parrillitaelrastro,2026-07-10,2026-07-12,elrastroparrillita.com.uy
-36,García Parrilla Clásica y Bar,Restaurantes,Punta Carretas y Carrasco,45,Media,Contactado,2600 2763,contacto@garcia.com.uy,@garciauruguay,2026-07-10,,garcia.com.uy
-37,La 32 Parrillada,Restaurantes,Montevideo,45,Media,Contactado,,la32parrillada@gmail.com,,2026-07-18,2026-07-22,la32parrillada.com.uy
-38,La Otra Parrilla,Restaurantes,Montevideo,45,Media,Contactado,,santiago@laotraparrilla.com,,2026-07-18,2026-07-22,laotraparrilla.com
-39,La Perdiz,Restaurantes,Punta Carretas,45,Media,Contactado,2711 8963,contacto@laperdizrestaurant.com,,2026-07-10,2026-07-12,laperdiz.com.uy
-40,ABC Home Bazar,Bazares,Montevideo,40,Media,Contactado,092 219 456,ventas@abchome.com.uy,,2026-07-07,,abchome.com.uy
-41,Bazar News,Bazares,Centro,40,Media,Respondió,095 886 724,contacto@bazarnews.com.uy,,2026-07-07,2026-07-21,bazarnews.com.uy
-42,Casa Frottis,Bazares,Barrio Reus,40,Media,Contactado,097 409 440,,,2026-07-17,,casafrottis.uy
-43,Casa Jorge Mayorista,Bazares,Villa Muñoz,40,Media,Contactado,2200 7720,ventas@casajorge.com.uy,,2026-07-10,2026-07-13,casajorge.com.uy
-44,Tiendas Montevideo,Bazares,Múltiples locales,40,Media,Contactado,092 189 253,comentarios@tiendasmontevideo.com,,2026-07-10,2026-07-13,tiendasmontevideo.com.uy
-45,MVD Clínica Odontológica,Clínicas,Parque Rodó y Las Piedras,40,Media,Contactado,092 271 227,,,2026-07-17,,clinicaodontologicamontevideo.com.uy
-46,Punto Odontológico,Clínicas,"Cordón, Unión y Parque Rodó",40,Media,Contactado,2400 2080,info@puntoodontologico.com,,2026-07-10,2026-07-13,puntoodontologico.com
-47,Tu Zona Spa,Clínicas,Montevideo,40,Media,Contactado,,msandrapinna@hotmail.com,,2026-07-18,2026-07-22,tuzonaspa.uy
-48,Diego Centro Mayorista,Bazares,Villa Muñoz,35,Media,Contactado,098 701 315,ventasweb@diego.com.uy,,2026-07-07,,diego.com.uy
-49,be-eme,Bazares,Montevideo,35,Media,Contactado,095 126 307,info@be-eme.com,,2026-07-07,,be-eme.com
-50,Natural Beauty,Clínicas,Tres Cruces,35,Media,Contactado,096 669 250,adriananaturalbeauty@gmail.com,,2026-07-10,2026-07-12,naturalbeauty.com.uy
-51,Bazar Grupo Dos,Bazares,Montevideo,30,Media,Contactado,,ventas@grupodos.com.uy,,2026-07-07,,grupodos.com.uy
-52,Bienestar Dental,Clínicas,Montevideo,30,Media,Contactado,098 140 615,,,2026-07-17,,bienestardentaluy.com
-53,Syncros Fisioterapia,Clínicas,Montevideo y Punta del Este,30,Media,Contactado,095 133 585,hola@syncros.com.uy,@syncros_centro,2026-07-10,2026-07-13,syncros.com.uy
-54,ViaAqua Spa,Clínicas,Montevideo,30,Media,Contactado,,comercial@viaaqua.com,,2026-07-07,,viaaqua.com/spa
-55,Bazar Casa Martinez,Bazares,Montevideo,25,Baja,Contactado,,casamartinez09@hotmail.com,,2026-07-18,2026-07-22,bazarcasamartinez.com.uy
-56,Big Party,Bazares,Montevideo,25,Baja,Contactado,,bigpartycotillonventas@gmail.com,,2026-07-18,2026-07-22,bigparty.com.uy
-57,Bethel Spa,Clínicas,Varias zonas,25,Baja,Contactado,,bethel@bethelspa.com,,2026-07-18,2026-07-22,bethelspa.com
-58,Del Prado Odontología Integral,Clínicas,Prado,25,Baja,Contactado,2309 7106,info@odontologiadelprado.com,,2026-07-18,2026-07-22,odontologiadelprado.com
-59,Spa Cordón,Clínicas,Cordón,25,Baja,Contactado,,relaxtotal@spacordon.com.uy,,2026-07-18,2026-07-22,spacordon.com.uy
-60,Casajardín,Bazares,Unión y Paso Molino,20,Baja,Contactado,099 958 088,centro@casajardin.com.uy,,2026-07-10,2026-07-12,casajardin.com.uy
-61,DECOHogar Bazar,Bazares,Varias zonas,20,Baja,Respondió,2917 1334,virginia@decohogar.com.uy (supervisora),@decohogarbazar,2026-07-10,2026-07-21,decohogar.com.uy
-62,Bazar Los Tres,Bazares,Montevideo,5,Baja,Pendiente,092 795 074,,,,,bazarlostres.com.uy
-63,VeoVeo Juguetería,Bazares,6 locales,5,Baja,Contactado,097 822 939,hola@veoveo.com.uy,,2026-07-10,2026-07-12,veoveo.com.uy
-64,Escaramuza Libros y Café,Restaurantes,Cordón,5,Baja,Contactado,091 665 568,escaramuza@escaramuza.com.uy,,2026-07-10,2026-07-12,escaramuza.com.uy
+1,Cuisine,Bazares,Montevideo,75,Caliente,Pendiente,,,@cuisine.uy,,,
+2,Dulce Placer,Bazares,Montevideo,75,Caliente,Pendiente,,,@dulceplacer.uy,,,
+3,Pushka,Bazares,Montevideo,75,Caliente,Pendiente,,,@pushka.uy,,,
+4,Bio Bronze,Clínicas,Montevideo,75,Caliente,Pendiente,,,@biobronze.uy,,,
+5,BodyHealth,Clínicas,Montevideo,75,Caliente,Pendiente,,,@bodyhealth.uy,,,
+6,Centro Estético Carolina Morales,Clínicas,Cordón,75,Caliente,Pendiente,098 911 302,moralescastrocarolina3@gmail.com,,,,
+7,L'AVIE,Clínicas,Pocitos,75,Caliente,Pendiente,,,@lavie.uy,,,
+8,My Spa,Clínicas,Punta Carretas,75,Caliente,No interesado,098 227 362,,facebook.com/MySpaUruguay,2026-07-06,,myspauruguay.com
+9,REAB,Clínicas,Montevideo,75,Caliente,Pendiente,,,@reab.uy,,,
+10,Bar Nostra,Restaurantes,Cordón,75,Caliente,Pendiente,,,@barnostra.uy,,,
+11,Cervecería Ramón,Restaurantes,Montevideo,75,Caliente,Pendiente,,,@cerveceria.ramon,,,
+12,Don Aurelio Pizzas,Restaurantes,Pocitos,75,Caliente,No interesado,2622 0066 / WA 096 416 000,,@donaureliopizzas,2026-07-06,2026-07-21,
+13,Francachela,Restaurantes,Montevideo,75,Caliente,Contactado,,,@francachela_montevideo,2026-07-06,,
+14,La 9 Pizza & Parrilla,Restaurantes,Montevideo,75,Caliente,Contactado,,,@la9pizzayparrilla.mvd,2026-07-06,,
+15,Pistatxo Fusión,Restaurantes,Pocitos,75,Caliente,Contactado,,,,2026-07-06,,pistatxo.com
+16,Roldós (Mercado),Restaurantes,Mercado del Puerto,75,Caliente,Pendiente,,,@bar.roldos,,,
+17,Sinatra Bar,Restaurantes,Pocitos,75,Caliente,Pendiente,,,@sinatra.mvd,,,
+18,Tiggre,Restaurantes,Montevideo,75,Caliente,Pendiente,,,@tiggre.uy,,,
+19,Bazar El Tío,Bazares,Villa Muñoz,70,Caliente,Contactado,092 795 886,,,2026-07-06,,
+20,Gift Shop,Bazares,Cordón,70,Caliente,No interesado,,,,2026-07-06,,giftshop.uy
+21,Hay de Todo,Bazares,Montevideo,70,Caliente,Contactado,,,,2026-07-06,,haydetodo.com.uy
+22,Tienda 2001,Bazares,Montevideo,70,Caliente,Pendiente,,,,,,
+23,Óptica y Bazar Central,Bazares,Centro,70,Caliente,Pendiente,,,,,,
+24,Amatista Centro de Bienestar,Clínicas,Centro,70,Caliente,No interesado,,,,2026-07-06,,
+25,Clínica Dental Silva,Clínicas,Montevideo,70,Caliente,Pendiente,,,,,,
+26,Fisiocenter,Clínicas,Montevideo,70,Caliente,Pendiente,,,,,,
+27,Serenity Holistic Spa,Clínicas,Pocitos,70,Caliente,Contactado,,,,2026-07-06,,
+28,TCP – Terapia Científica Podológica,Clínicas,Av. Rivera y Centro,70,Caliente,Respondió,2622 3222 / marketing: 091 602 733,,,2026-07-17,2026-07-21,ortopedia.com.uy
+29,Wellness Uruguay,Clínicas,Montevideo,70,Caliente,Pendiente,,,,,,
+30,El Bebote de TikTok,Restaurantes,La Blanqueada,70,Caliente,Pendiente,,,,,,
+31,Estrecho,Restaurantes,Ciudad Vieja,70,Caliente,Respondió,2915 6107 / dueños: 094 828 504,contacto@estrecho.uy,,2026-07-07,2026-07-21,
+32,La Cabaña del Chef,Restaurantes,Montevideo,70,Caliente,Pendiente,,,,,,
+33,Manzanar,Restaurantes,Montevideo,70,Caliente,Pendiente,,,,,,
+34,Pomelo,Restaurantes,Punta Carretas,70,Caliente,Contactado,094 223 696,,@pomelo.montevideo,2026-07-17,,
+35,Podología Total,Clínicas,Montevideo,65,Alta,Respondió,099 204 359,info@podologiatotal.com,,2026-07-07,2026-08-18,podologiatotal.com
+36,Bienestar Fisioterapia Personalizada,Clínicas,Parque Batlle y Carrasco,60,Alta,Contactado,,info@bienestarfp.com.uy,,2026-07-18,2026-07-22,bienestarfp.com.uy
+37,Centro Kinesiológico,Clínicas,Montevideo,60,Alta,Contactado,,centrokinesiologico6@gmail.com,,2026-07-07,,centrokinesiologico.com.uy
+38,Clínica Odontológica Las Torres,Clínicas,Montevideo,60,Alta,Contactado,092 553 658,consulastorres@gmail.com,,2026-07-07,,odontolastorres.com
+39,Vital Pie,Clínicas,Montevideo,60,Alta,Contactado,098 740 369,vitalpiepodologiamedica@gmail.com,,2026-07-07,,vitalpie.uy
+40,Bar Tabaré,Restaurantes,Punta Carretas,60,Alta,Contactado,2712 3242,bartabare@bartabare.com,@cafe_bar_tabare,2026-07-18,2026-07-22,bartabare.com
+41,Primuseum,Restaurantes,Ciudad Vieja,60,Alta,Contactado,099 217 645,info@primuseum.com,@primuseum,2026-07-07,,primuseum.com
+42,Recoleta Pizza & Parrilla,Restaurantes,Barrio Sur,60,Alta,Contactado,2901 5325,recoletauy@gmail.com,@recoleta_uy,2026-07-10,,recoleta.com.uy
+43,Tandory,Restaurantes,Pocitos,60,Alta,Respondió,,,@tandory,2026-07-07,,tandory.com.uy
+44,Clínica Odontológica Dr. Sales,Clínicas,Parque Rodó,55,Alta,Contactado,2419 8941,info@clinicasales.com.uy,,2026-07-18,2026-07-22,clinicasales.com.uy
+45,Sandra Reyes En Sueños,Clínicas,Av. Italia y A. Gallinal,55,Alta,Contactado,094 084 362,sandrareyensuenos@gmail.com,,2026-07-18,2026-07-22,sandrareyensuenos.wixsite.com/ensuenos
+46,El Palenque,Restaurantes,Mercado del Puerto,55,Alta,Contactado,,info@elpalenque.com,,2026-07-18,2026-07-22,elpalenque.com.uy
+47,Clínica Fisiomed,Clínicas,Montevideo,50,Alta,Contactado,,contacto@fisiomed.com.uy,,2026-07-07,,fisiomed.com.uy
+48,Dental.uy,Clínicas,Montevideo,50,Alta,Contactado,092 611 613,info@dental.uy,,2026-07-07,,dental.uy
+49,Podología Clínica,Clínicas,Zona Montevideo Shopping,50,Alta,Contactado,097 179 329,info@podologia.com.uy,,2026-07-10,2026-07-13,podologia.com.uy
+50,Parrillada Montevideo,Restaurantes,Montevideo,50,Alta,Pendiente,,,,,,parrillada-montevideo.square.site
+51,Cinesia,Clínicas,Montevideo,45,Media,Contactado,,sapiroluciana@gmail.com,,2026-07-07,,cinesia.uy
+52,Consultorio Brandariz,Clínicas,Bvar. Artigas 1443,45,Media,Contactado,2711 2666,brandarizjoser@gmail.com,,2026-07-10,2026-07-13,brandariz.com.uy
+53,Fisioterapia Uruguay,Clínicas,Montevideo,45,Media,Contactado,,consultas@fisioterapia.uy,,2026-07-18,2026-07-22,fisioterapia.uy
+54,Kadin Estética Integral,Clínicas,Montevideo,45,Media,Pendiente,,,,,,kadin.agendapro.com/uy
+55,RealEssence Podología,Clínicas,Pocitos,45,Media,Contactado,,info@realessence.com,,2026-07-18,2026-07-22,realessenceuy.com
+56,El Rastro Parrillita,Restaurantes,Cordón,45,Media,Contactado,2408 2129,reservas@elrastroparrillita.com.uy,@parrillitaelrastro,2026-07-10,2026-07-12,elrastroparrillita.com.uy
+57,García Parrilla Clásica y Bar,Restaurantes,Punta Carretas y Carrasco,45,Media,Contactado,2600 2763,contacto@garcia.com.uy,@garciauruguay,2026-07-10,,garcia.com.uy
+58,La 32 Parrillada,Restaurantes,Montevideo,45,Media,Contactado,,la32parrillada@gmail.com,,2026-07-18,2026-07-22,la32parrillada.com.uy
+59,La Otra Parrilla,Restaurantes,Montevideo,45,Media,Contactado,,santiago@laotraparrilla.com,,2026-07-18,2026-07-22,laotraparrilla.com
+60,La Perdiz,Restaurantes,Punta Carretas,45,Media,Contactado,2711 8963,contacto@laperdizrestaurant.com,,2026-07-10,2026-07-12,laperdiz.com.uy
+61,Los Laureles,Restaurantes,Carrasco,45,Media,Pendiente,2506 2422,,,,,loslaureles.com.uy
+62,ABC Home Bazar,Bazares,Montevideo,40,Media,Contactado,092 219 456,ventas@abchome.com.uy,,2026-07-07,,abchome.com.uy
+63,Bazar News,Bazares,Centro,40,Media,Respondió,095 886 724,contacto@bazarnews.com.uy,,2026-07-07,2026-07-21,bazarnews.com.uy
+64,Casa Frottis,Bazares,Barrio Reus,40,Media,Contactado,097 409 440,,,2026-07-17,,casafrottis.uy
+65,Casa Jorge Mayorista,Bazares,Villa Muñoz,40,Media,Contactado,2200 7720,ventas@casajorge.com.uy,,2026-07-10,2026-07-13,casajorge.com.uy
+66,Tiendas Montevideo,Bazares,Múltiples locales,40,Media,Contactado,092 189 253,comentarios@tiendasmontevideo.com,,2026-07-10,2026-07-13,tiendasmontevideo.com.uy
+67,MVD Clínica Odontológica,Clínicas,Parque Rodó y Las Piedras,40,Media,Contactado,092 271 227,,,2026-07-17,,clinicaodontologicamontevideo.com.uy
+68,Masajes Carrasco,Clínicas,Carrasco,40,Media,Pendiente,,masajescarrasco@outlook.com,,,,masajescarrasco.com
+69,Punto Odontológico,Clínicas,"Cordón, Unión y Parque Rodó",40,Media,Contactado,2400 2080,info@puntoodontologico.com,,2026-07-10,2026-07-13,puntoodontologico.com
+70,Roxana Frontán,Clínicas,Pocitos,40,Media,Pendiente,091 800 351,rofrontan@gmail.com,,,,roxanafrontan.com.uy
+71,Tu Zona Spa,Clínicas,Montevideo,40,Media,Contactado,,msandrapinna@hotmail.com,,2026-07-18,2026-07-22,tuzonaspa.uy
+72,El Fogón,Restaurantes,Centro y Punta Carretas,40,Media,Pendiente,2900 0900,,,,,elfogon.com.uy
+73,Diego Centro Mayorista,Bazares,Villa Muñoz,35,Media,Contactado,098 701 315,ventasweb@diego.com.uy,,2026-07-07,,diego.com.uy
+74,be-eme,Bazares,Montevideo,35,Media,Contactado,095 126 307,info@be-eme.com,,2026-07-07,,be-eme.com
+75,Natural Beauty,Clínicas,Tres Cruces,35,Media,Contactado,096 669 250,adriananaturalbeauty@gmail.com,,2026-07-10,2026-07-12,naturalbeauty.com.uy
+76,Odontología NL,Clínicas,Cordón,35,Media,Pendiente,2569 8980,,,,,odontologianl.com
+77,Odontología Zingman,Clínicas,Pocitos,35,Media,Pendiente,091 294 712,info@odontologiazingman.com,,,,odontologiazingman.com
+78,Medio y Medio,Restaurantes,Ciudad Vieja,35,Media,Pendiente,2710 2754,info@medioymedio.com,,,,medioymedio.com
+79,Bazar Grupo Dos,Bazares,Montevideo,30,Media,Contactado,,ventas@grupodos.com.uy,,2026-07-07,,grupodos.com.uy
+80,Bienestar Dental,Clínicas,Montevideo,30,Media,Contactado,098 140 615,,,2026-07-17,,bienestardentaluy.com
+81,Odontoplace,Clínicas,Cordón,30,Media,Pendiente,2857 1428,contacto@odontoplaceuy.com,,,,odontoplaceuy.com
+82,Syncros Fisioterapia,Clínicas,Montevideo y Punta del Este,30,Media,Contactado,095 133 585,hola@syncros.com.uy,@syncros_centro,2026-07-10,2026-07-13,syncros.com.uy
+83,ViaAqua Spa,Clínicas,Montevideo,30,Media,Contactado,,comercial@viaaqua.com,,2026-07-07,,viaaqua.com/spa
+84,Bazar Casa Martinez,Bazares,Montevideo,25,Baja,Contactado,,casamartinez09@hotmail.com,,2026-07-18,2026-07-22,bazarcasamartinez.com.uy
+85,Big Party,Bazares,Montevideo,25,Baja,Contactado,,bigpartycotillonventas@gmail.com,,2026-07-18,2026-07-22,bigparty.com.uy
+86,Bethel Spa,Clínicas,Varias zonas,25,Baja,Contactado,,bethel@bethelspa.com,,2026-07-18,2026-07-22,bethelspa.com
+87,Consultorio Dental Pocitos,Clínicas,Pocitos,25,Baja,Pendiente,092 611 613,info@consultorio-dental.uy,,,,consultorio-dental.uy
+88,Del Prado Odontología Integral,Clínicas,Prado,25,Baja,Contactado,2309 7106,info@odontologiadelprado.com,,2026-07-18,2026-07-22,odontologiadelprado.com
+89,Spa Cordón,Clínicas,Cordón,25,Baja,Contactado,,relaxtotal@spacordon.com.uy,,2026-07-18,2026-07-22,spacordon.com.uy
+90,Casajardín,Bazares,Unión y Paso Molino,20,Baja,Contactado,099 958 088,centro@casajardin.com.uy,,2026-07-10,2026-07-12,casajardin.com.uy
+91,DECOHogar Bazar,Bazares,Varias zonas,20,Baja,Respondió,2917 1334,virginia@decohogar.com.uy (supervisora),@decohogarbazar,2026-07-10,2026-07-21,decohogar.com.uy
+92,Bazar Los Tres,Bazares,Montevideo,5,Baja,Pendiente,092 795 074,,,,,bazarlostres.com.uy
+93,ChauPantallas,Bazares,Montevideo,5,Baja,Pendiente,099 213 082,info@chaupantallas.com,,,,chaupantallas.com
+94,El Clon,Bazares,23 locales,5,Baja,Pendiente,2519 0983,ventas@elclon.com.uy,,,,elclon.com.uy
+95,El Paisano / Divino,Bazares,Montevideo,5,Baja,Pendiente,2597 5300,,,,,divino.com.uy
+96,VeoVeo Juguetería,Bazares,6 locales,5,Baja,Contactado,097 822 939,hola@veoveo.com.uy,,2026-07-10,2026-07-12,veoveo.com.uy
+97,Espacio Hifu,Clínicas,Montevideo y Punta del Este,5,Baja,Pendiente,099 944 143,,,,,espaciohifu.com
+98,Skincare Medicina Estética,Clínicas,Montevideo,5,Baja,Pendiente,094 579 281,,,,,skincare.com.uy
+99,Escaramuza Libros y Café,Restaurantes,Cordón,5,Baja,Contactado,091 665 568,escaramuza@escaramuza.com.uy,,2026-07-10,2026-07-12,escaramuza.com.uy
