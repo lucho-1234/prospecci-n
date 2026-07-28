@@ -31,6 +31,9 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
    la página /contacto del sitio, directorios locales (opina.com.uy, guiacomercial.uy, salimostour),
    Instagram/Facebook del negocio, y variantes de dominio (.com.uy, .uy, .com).
 3. Un dato negativo erróneo en un mensaje de prospección quema al prospecto: el error lo ve el cliente.
+   - **Emails de directorios NO son confiables**: el gmail de Centro Estético Carolina Morales
+     (moralescastrocarolina3@gmail.com) que figuraba en directorios NO era de ella. Verificar el
+     email en la web propia del negocio o por el canal directo antes de darlo por bueno.
 4. Las webs "inestables" pueden ser caídas temporales del proxy de red: reintentar antes de afirmar.
 
 ## Números reales (al viernes 2026-07-18)
