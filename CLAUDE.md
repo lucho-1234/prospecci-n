@@ -8,6 +8,30 @@ para negocios locales (restaurantes, bazares, clínicas). Precios: $10.000 UYU i
 
 - `informe-prospeccion-montevideo.html` — dashboard/CRM con los 50 prospectos, scores y pipeline
 - `prospectos-montevideo.json` — datos exportables (campo `estado_contacto`: Pendiente / Contactado / Respondió)
+- `superganga/` — proyecto aparte: tienda online para SuperGanga (ver abajo)
+
+## Proyecto SuperGanga (e-commerce) — desde 2026-08
+
+Bazar de Montevideo con 2 locales; el padre de Luciano es supervisor general y maneja **uno solo**.
+Objetivo: vender online con alcance nacional y stock que se actualice automáticamente.
+
+- `superganga/plan-ecommerce.md` — diagnóstico, stack, fases, métricas
+- `superganga/relevamiento-preguntas.md` — cuestionario para el supervisor + checklist inmediato
+
+**Decisiones tomadas:**
+- Plataforma: **Tiendanube** (la arman y mantienen Luciano + el padre, sin desarrollador dedicado)
+- Se lanza con el stock de **un solo local**; el segundo entra en Fase 2 con acuerdo cerrado
+- Pagos: Mercado Pago + Redpagos/Abitab + transferencia
+
+**Errores a NO repetir en este proyecto:**
+- **PedidosYa NO da alcance nacional**: es última milla (misma localidad, ~10 km, ≤10 kg). Para el
+  interior van DAC / UES / Correo Uruguayo (Ahíva). El retiro en local es la opción más rentable.
+- No dar por sentado que hay maestro de artículos: muchos bazares cobran por rubro, no por SKU.
+  Sin código por artículo no hay sincronización posible (ver bloque A2 del relevamiento).
+- Toda venta necesita **CFE / factura electrónica DGI**: condiciona la plataforma, no se ve después.
+- El cuello de botella real no es técnico, es **quién despacha y quién contesta**.
+- No se verificó presencia online de "SuperGanga" en la búsqueda inicial — **no asumir que no
+  tiene**; confirmar nombre comercial exacto y grafía antes de afirmar nada (regla general de este repo).
 
 ## Estilo de comunicación
 

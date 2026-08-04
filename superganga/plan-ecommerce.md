@@ -69,9 +69,10 @@ de escribir una línea de código hay que cerrar con el otro local:
 Si el otro local no descuenta en tiempo real, la web va a vender algo que ya se vendió en
 mostrador → cancelaciones → reseñas malas → se quema el canal en el arranque.
 
-> **Recomendación:** arrancar publicando **solo el stock del local que él controla**, y sumar el
-> segundo local recién cuando haya acuerdo escrito y sincronización probada. Es mejor una tienda
-> chica que cumple que una grande que cancela.
+> **DECIDIDO (2026-08-04):** el acuerdo con el otro local **todavía no existe**. Por lo tanto la
+> Fase 1 sale **solo con el stock del local que maneja el supervisor**. El segundo local se suma
+> en Fase 2, recién con acuerdo cerrado y sincronización probada. Esto deja de ser una
+> recomendación y pasa a ser el plan: no se espera al otro local para lanzar.
 
 ### 2.4 Factura electrónica (CFE / DGI)
 
@@ -93,9 +94,17 @@ usan hoy:
 
 ---
 
-## 3. Stack recomendado
+## 3. Stack
 
-### Opción A — Arranque rápido y barato (recomendada para el MVP)
+> **DECIDIDO (2026-08-04): Opción A — Tiendanube.**
+> El equipo que arma y mantiene la tienda es Luciano + el supervisor, sin desarrollador dedicado.
+> Eso descarta la Opción C (a medida) y vuelve poco realista la Opción B: Fenicio y AgileCommerce
+> son plataformas lideradas por implementador, con costo e implementación acordes. Necesitamos una
+> plataforma que **dos personas no-técnicas puedan operar solas todos los días**: cargar productos,
+> cambiar precios, despachar pedidos, atender un reclamo. Tiendanube es eso.
+> Las Opciones B y C quedan documentadas como camino de migración si el proyecto escala.
+
+### Opción A — Arranque rápido y barato ✅ **ELEGIDA**
 
 **Tiendanube + Mercado Pago + multi-transportista + app de e-factura**
 
@@ -107,7 +116,7 @@ usan hoy:
 - **Límite:** el manejo multi-depósito (2 locales) y el sync con ERP local es más flojo. Para el
   MVP con un solo local, no molesta.
 
-### Opción B — Si el catálogo es grande y el ERP es serio
+### Opción B — Camino de migración futuro (no ahora)
 
 **Fenicio** (plataforma uruguaya, homologada con Zureo, integraciones locales de pago,
 logística y e-factura) o **AgileCommerce** (webservices contra Zureo, Zeta, Doria, Facturapp;
@@ -211,12 +220,27 @@ Dos cosas distintas que conviene no mezclar:
 
 ---
 
-## 8. Datos pendientes que definen el stack
+## 8. Estado de los datos que definen el stack
 
-1. **¿Qué sistema usan hoy para stock y facturación?** (Zureo, Memory, otro, Excel)
-2. **¿Los dos locales comparten la misma base de stock?**
-3. **¿Cuántos SKU tiene el catálogo y cuál es el ticket promedio en el local?**
-4. **¿Quién construye y mantiene la tienda: Luciano, o se contrata implementador?**
+| # | Dato | Estado |
+|---|---|---|
+| 1 | ¿Qué sistema usan hoy para stock y facturación? | ⏳ **Pendiente** — relevar con el supervisor (ver `relevamiento-preguntas.md`) |
+| 2 | ¿Los dos locales comparten base de stock? | ⏳ Sin definir — hay que hablar con el otro local. **No bloquea:** se lanza con un solo local |
+| 3 | ¿Cuántos SKU y cuál es el ticket promedio? | ⏳ **Pendiente** — relevar |
+| 4 | ¿Quién construye y mantiene? | ✅ **Luciano + el supervisor**, sin desarrollador dedicado → define Tiendanube |
+
+**El dato #1 es el único verdaderamente bloqueante**, y solo para la Fase 2 (automatización del
+stock). La Fase 0 y buena parte de la Fase 1 se pueden ejecutar sin él.
+
+### Sobre el equipo de mantenimiento
+
+El mantenimiento diario —cargar productos, responder consultas, despachar, controlar que el stock
+publicado sea real— lo hacen **personas**: Luciano y el supervisor. Claude sirve para diseñar,
+resolver problemas puntuales, escribir textos y analizar números **cuando se lo consulta en una
+sesión**, pero no queda corriendo en el fondo ni recuerda por su cuenta lo que pasó entre
+sesiones: el contexto vive en este repo, no en el modelo. Conclusión práctica: **hay que asignar
+una persona con nombre y horario** a atender pedidos, o el canal muere por desatención en el mes 2.
+Es la falla más común de las tiendas chicas, más que la tecnología.
 
 ---
 
